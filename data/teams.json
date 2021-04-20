@@ -1,0 +1,836 @@
+{
+    "teams": {
+        "CAT": {
+            "name": "CAT",
+            "slug": "Caterpillar Inc",
+            "seed": 1,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 232.740005
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": -0.001504
+        },
+        "BA": {
+            "name": "BA",
+            "slug": "Boeing Co",
+            "seed": 2,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 252.960007
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": -0.034828
+        },
+        "TRV": {
+            "name": "TRV",
+            "slug": "Travelers Companies Inc",
+            "seed": 3,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 150.619995
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.024964
+        },
+        "HON": {
+            "name": "HON",
+            "slug": "Honeywell International Inc",
+            "seed": 4,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 216.800003
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.06536
+        },
+        "CRM": {
+            "name": "CRM",
+            "slug": "Salesforce.Com Inc",
+            "seed": 5,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 218.720001
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.053859
+        },
+        "PG": {
+            "name": "PG",
+            "slug": "Procter & Gamble Co",
+            "seed": 6,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 134.279999
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.017352
+        },
+        "NKE": {
+            "name": "NKE",
+            "slug": "Nike Inc",
+            "seed": 7,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 132.529999
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.000302
+        },
+        "FCX": {
+            "name": "FCX",
+            "slug": "Freeport-McMoRan Inc",
+            "seed": 8,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 33.759998
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.105747
+        },
+        "MLM": {
+            "name": "MLM",
+            "slug": "Martin Marietta Materials Inc",
+            "seed": 9,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 333.880005
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.050138
+        },
+        "POOL": {
+            "name": "POOL",
+            "slug": "Pool Corp",
+            "seed": 10,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 351.570007
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.089257
+        },
+        "CLX": {
+            "name": "CLX",
+            "slug": "Clorox Co",
+            "seed": 11,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 192.830002
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": -0.014884
+        },
+        "ADSK": {
+            "name": "ADSK",
+            "slug": "Autodesk Inc",
+            "seed": 12,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 283.899994
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.022191
+        },
+        "LMT": {
+            "name": "LMT",
+            "slug": "Lockheed Martin Corp",
+            "seed": 13,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 371.019989
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.055819
+        },
+        "ALL": {
+            "name": "ALL",
+            "slug": "Allstate Corp",
+            "seed": 14,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 116.029999
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.058692
+        },
+        "GE": {
+            "name": "GE",
+            "slug": "General Electric Co",
+            "seed": 15,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 13.28
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.013554
+        },
+        "DE": {
+            "name": "DE",
+            "slug": "Deere & Co",
+            "seed": 16,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 372.119995
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.023111
+        },
+        "WBA": {
+            "name": "WBA",
+            "slug": "Walgreens Boots Alliance Inc",
+            "seed": 1,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 54.75
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": -0.017534
+        },
+        "JPM": {
+            "name": "JPM",
+            "slug": "JPMorgan Chase & Co",
+            "seed": 2,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 153.710007
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": -0.006896
+        },
+        "HD": {
+            "name": "HD",
+            "slug": "Home Depot Inc",
+            "seed": 3,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 307.75
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.062063
+        },
+        "AMGN": {
+            "name": "AMGN",
+            "slug": "Amgen Inc",
+            "seed": 4,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 249.169998
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.027291
+        },
+        "UNH": {
+            "name": "UNH",
+            "slug": "UnitedHealth Group Inc",
+            "seed": 5,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 367.070007
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.062032
+        },
+        "JNJ": {
+            "name": "JNJ",
+            "slug": "Johnson & Johnson",
+            "seed": 6,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 162.830002
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": -0.00086
+        },
+        "MRK": {
+            "name": "MRK",
+            "slug": "Merck & Co Inc",
+            "seed": 7,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 77.089996
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.007394
+        },
+        "WMT": {
+            "name": "WMT",
+            "slug": "Walmart Inc",
+            "seed": 8,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 135.619995
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.030158
+        },
+        "COST": {
+            "name": "COST",
+            "slug": "Costco Wholesale Corp",
+            "seed": 9,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 354.940002
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.041162
+        },
+        "PFE": {
+            "name": "PFE",
+            "slug": "Pfizer Inc",
+            "seed": 10,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 36.299999
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.072452
+        },
+        "BSX": {
+            "name": "BSX",
+            "slug": "Boston Scientific Corp",
+            "seed": 11,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 38.580002
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.059616
+        },
+        "HUM": {
+            "name": "HUM",
+            "slug": "Humana Inc",
+            "seed": 12,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 412.820007
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.065646
+        },
+        "DXCM": {
+            "name": "DXCM",
+            "slug": "DexCom Inc",
+            "seed": 13,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 365.5
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.075349
+        },
+        "LOW": {
+            "name": "LOW",
+            "slug": "Lowe`s Companies Inc",
+            "seed": 14,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 191.320007
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.066329
+        },
+        "BAC": {
+            "name": "BAC",
+            "slug": "Bank of America Corp",
+            "seed": 15,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 39.490002
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": -0.008103
+        },
+        "CVS": {
+            "name": "CVS",
+            "slug": "CVS Health Corp",
+            "seed": 16,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 74.300003
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.019515
+        },
+        "INTC": {
+            "name": "INTC",
+            "slug": "Intel Corp",
+            "seed": 1,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 64.550003
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": -0.014253
+        },
+        "GS": {
+            "name": "GS",
+            "slug": "Goldman Sachs Group Inc",
+            "seed": 2,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 327.640015
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.047155
+        },
+        "CSCO": {
+            "name": "CSCO",
+            "slug": "Cisco Systems Inc",
+            "seed": 3,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 51.98
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.016737
+        },
+        "MSFT": {
+            "name": "MSFT",
+            "slug": "Microsoft Corp",
+            "seed": 4,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 242.350006
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.067629
+        },
+        "IBM": {
+            "name": "IBM",
+            "slug": "International Business Machines Corp",
+            "seed": 5,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 133.229996
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": -0.000826
+        },
+        "DIS": {
+            "name": "DIS",
+            "slug": "Walt Disney Co",
+            "seed": 6,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 188.970001
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": -0.008149
+        },
+        "VZ": {
+            "name": "VZ",
+            "slug": "Verizon Communications Inc",
+            "seed": 7,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 58.299999
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.001544
+        },
+        "AAPL": {
+            "name": "AAPL",
+            "slug": "Apple Inc",
+            "seed": 8,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 123.0
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.09626
+        },
+        "QCOM": {
+            "name": "QCOM",
+            "slug": "Qualcomm Inc",
+            "seed": 9,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 137.789993
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": -0.018434
+        },
+        "TMUS": {
+            "name": "TMUS",
+            "slug": "T-Mobile US Inc",
+            "seed": 10,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 127.650002
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.033999
+        },
+        "VIAC": {
+            "name": "VIAC",
+            "slug": "ViacomCBS Inc",
+            "seed": 11,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 44.639999
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": -0.139785
+        },
+        "AMAT": {
+            "name": "AMAT",
+            "slug": "Applied Materials Inc",
+            "seed": 12,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 141.520004
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": -0.075113
+        },
+        "ADBE": {
+            "name": "ADBE",
+            "slug": "Adobe Inc",
+            "seed": 13,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 483.339996
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.067923
+        },
+        "ASML": {
+            "name": "ASML",
+            "slug": "ASML Holding N.V.",
+            "seed": 14,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 637.099976
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": -0.010972
+        },
+        "MS": {
+            "name": "MS",
+            "slug": "Morgan Stanley",
+            "seed": 15,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 78.220001
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.02314
+        },
+        "AMD": {
+            "name": "AMD",
+            "slug": "Advanced Micro Devices Inc",
+            "seed": 16,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 81.089996
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.000247
+        },
+        "CVX": {
+            "name": "CVX",
+            "slug": "Chevron Corp",
+            "seed": 1,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 105.75
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": -0.023546
+        },
+        "AXP": {
+            "name": "AXP",
+            "slug": "American Express Co",
+            "seed": 2,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 144.570007
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.027461
+        },
+        "DOW": {
+            "name": "DOW",
+            "slug": "Dow Inc",
+            "seed": 3,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 64.599998
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": -0.000774
+        },
+        "MMM": {
+            "name": "MMM",
+            "slug": "3M Co",
+            "seed": 4,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 192.699997
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.030566
+        },
+        "MCD": {
+            "name": "MCD",
+            "slug": "Mcdonald's Corp",
+            "seed": 5,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 225.210007
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.029306
+        },
+        "V": {
+            "name": "V",
+            "slug": "Visa Inc",
+            "seed": 6,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 216.860001
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.041179
+        },
+        "KO": {
+            "name": "KO",
+            "slug": "Coca-Cola Co",
+            "seed": 7,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 52.509998
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.028376
+        },
+        "NEE": {
+            "name": "NEE",
+            "slug": "Nextera Energy Inc",
+            "seed": 8,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 75.769997
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.053055
+        },
+        "ETR": {
+            "name": "ETR",
+            "slug": "Entergy Corp",
+            "seed": 9,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 99.639999
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.069651
+        },
+        "PEP": {
+            "name": "PEP",
+            "slug": "PepsiCo Inc",
+            "seed": 10,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 141.279999
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.024561
+        },
+        "MA": {
+            "name": "MA",
+            "slug": "Mastercard Inc",
+            "seed": 11,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 363.299988
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.051913
+        },
+        "SBUX": {
+            "name": "SBUX",
+            "slug": "Starbucks Corp",
+            "seed": 12,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 109.379997
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.075151
+        },
+        "PPG": {
+            "name": "PPG",
+            "slug": "PPG Industries Inc",
+            "seed": 13,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 151.960007
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.110687
+        },
+        "DD": {
+            "name": "DD",
+            "slug": "Dupont De Nemours Inc",
+            "seed": 14,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 78.129997
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": -0.014847
+        },
+        "PYPL": {
+            "name": "PYPL",
+            "slug": "PayPal Holdings Inc",
+            "seed": 15,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 247.539993
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": 0.08229
+        },
+        "HAL": {
+            "name": "HAL",
+            "slug": "Halliburton Co",
+            "seed": 16,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "price": 21.92
+                }
+            ],
+            "currentScoreDate": "2021-04-19",
+            "currentRoundScore": -0.057026
+        }
+    }
+}
