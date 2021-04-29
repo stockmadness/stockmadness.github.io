@@ -959,6 +959,58 @@
             "scores": [],
             "currentScoreDate": "2021-04-27",
             "currentRoundScore": -0.10803324099722988
+        },
+        "SPY": {
+            "name": "SPY",
+            "slug": "SPY",
+            "seed": 0,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "open": 398.399994,
+                    "close": 400.609985
+                }
+            ],
+            "scores": [],
+            "currentScoreDate": "2021-04-27",
+            "currentRoundScore": 0.04799198365449775
+        },
+        "QQQ": {
+            "name": "QQQ",
+            "slug": "QQQ",
+            "seed": 0,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "open": 323.070007,
+                    "close": 324.570007
+                }
+            ],
+            "scores": [],
+            "currentScoreDate": "2021-04-27",
+            "currentRoundScore": 0.0528677767354615
+        },
+        "DIA": {
+            "name": "DIA",
+            "slug": "DIA",
+            "seed": 0,
+            "prices": [
+                {
+                    "date": "2021-04-01",
+                    "open": 330.779999,
+                    "close": 331.450012
+                }
+            ],
+            "scores": [],
+            "currentScoreDate": "2021-04-27",
+            "currentRoundScore": 0.027359577445309924
+        },
+        "_SM": {
+            "name": "_SM",
+            "slug": "_SM",
+            "seed": 0,
+            "prices": [],
+            "scores": []
         }
     }
 }
