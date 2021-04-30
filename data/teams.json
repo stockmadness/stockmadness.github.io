@@ -1005,9 +1005,9 @@
             "currentScoreDate": "2021-04-27",
             "currentRoundScore": 0.027359577445309924
         },
-        "_SM": {
-            "name": "_SM",
-            "slug": "_SM",
+        "STONKS": {
+            "name": "STONKS",
+            "slug": "STONKS",
             "seed": 0,
             "prices": [],
             "scores": []
