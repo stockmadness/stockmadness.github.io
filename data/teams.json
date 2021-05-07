@@ -14,6 +14,11 @@
                     "date": "2021-04-30",
                     "open": 225.52,
                     "close": 228.11
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 230.0,
+                    "close": 228.17
                 }
             ],
             "scores": [
@@ -22,8 +27,8 @@
                     "score": -0.013791625415586317
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.034260869565217345
         },
         "BA": {
             "name": "BA",
@@ -39,6 +44,11 @@
                     "date": "2021-04-30",
                     "open": 233.68,
                     "close": 234.31
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 234.11,
+                    "close": 235.19
                 }
             ],
             "scores": [
@@ -47,8 +57,8 @@
                     "score": -0.08711579797987534
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": -0.0253299730895733
         },
         "TRV": {
             "name": "TRV",
@@ -64,6 +74,11 @@
                     "date": "2021-04-30",
                     "open": 155.53,
                     "close": 154.66
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 156.11,
+                    "close": 156.59
                 }
             ],
             "scores": [
@@ -72,8 +87,8 @@
                     "score": 0.02935108153078203
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.02037025174556395
         },
         "HON": {
             "name": "HON",
@@ -89,6 +104,11 @@
                     "date": "2021-04-30",
                     "open": 223.02,
                     "close": 223.04
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 224.24,
+                    "close": 223.2
                 }
             ],
             "scores": [
@@ -97,8 +117,8 @@
                     "score": 0.023306995948114473
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.008696039957188706
         },
         "CRM": {
             "name": "CRM",
@@ -114,6 +134,11 @@
                     "date": "2021-04-30",
                     "open": 232.8,
                     "close": 230.32
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 230.77,
+                    "close": 223.76
                 }
             ],
             "scores": [
@@ -122,8 +147,8 @@
                     "score": 0.07827712326936909
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": -0.06660311132296226
         },
         "PG": {
             "name": "PG",
@@ -139,6 +164,11 @@
                     "date": "2021-04-30",
                     "open": 132.75,
                     "close": 133.42
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 134.03,
+                    "close": 135.0
                 }
             ],
             "scores": [
@@ -147,8 +177,8 @@
                     "score": -0.012069625796306105
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": -0.004252779228530845
         },
         "NKE": {
             "name": "NKE",
@@ -164,6 +194,11 @@
                     "date": "2021-04-30",
                     "open": 132.44,
                     "close": 132.62
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 133.37,
+                    "close": 133.03
                 }
             ],
             "scores": [
@@ -172,8 +207,8 @@
                     "score": -0.015368638868978435
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": -0.008697608157756553
         },
         "FCX": {
             "name": "FCX",
@@ -189,6 +224,11 @@
                     "date": "2021-04-30",
                     "open": 38.0,
                     "close": 37.71
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 38.41,
+                    "close": 38.71
                 }
             ],
             "scores": [
@@ -197,8 +237,8 @@
                     "score": 0.13107378524295132
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.08148919552199962
         },
         "MLM": {
             "name": "MLM",
@@ -214,6 +254,11 @@
                     "date": "2021-04-30",
                     "open": 357.64,
                     "close": 353.12
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 356.75,
+                    "close": 354.56
                 }
             ],
             "scores": [
@@ -222,8 +267,8 @@
                     "score": 0.05661276876315613
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.049558514365802386
         },
         "POOL": {
             "name": "POOL",
@@ -239,6 +284,11 @@
                     "date": "2021-04-30",
                     "open": 421.0,
                     "close": 422.52
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 425.0,
+                    "close": 428.86
                 }
             ],
             "scores": [
@@ -247,8 +297,8 @@
                     "score": 0.22207442650761933
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.03896470588235301
         },
         "CLX": {
             "name": "CLX",
@@ -264,6 +314,11 @@
                     "date": "2021-04-30",
                     "open": 179.26,
                     "close": 182.5
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 177.0,
+                    "close": 180.63
                 }
             ],
             "scores": [
@@ -272,8 +327,8 @@
                     "score": -0.05189882456494299
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.04016949152542382
         },
         "ADSK": {
             "name": "ADSK",
@@ -289,6 +344,11 @@
                     "date": "2021-04-30",
                     "open": 294.55,
                     "close": 291.91
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 292.99,
+                    "close": 287.5
                 }
             ],
             "scores": [
@@ -297,8 +357,8 @@
                     "score": 0.05064067161878327
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": -0.040649851530769054
         },
         "LMT": {
             "name": "LMT",
@@ -314,6 +374,11 @@
                     "date": "2021-04-30",
                     "open": 378.86,
                     "close": 380.56
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 379.77,
+                    "close": 385.31
                 }
             ],
             "scores": [
@@ -322,8 +387,8 @@
                     "score": 0.031355891253310286
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.020301761592542933
         },
         "ALL": {
             "name": "ALL",
@@ -339,6 +404,11 @@
                     "date": "2021-04-30",
                     "open": 128.0,
                     "close": 126.8
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 127.54,
+                    "close": 128.13
                 }
             ],
             "scores": [
@@ -347,8 +417,8 @@
                     "score": 0.10655383913269345
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": -0.0007056609691077353
         },
         "GE": {
             "name": "GE",
@@ -364,6 +434,11 @@
                     "date": "2021-04-30",
                     "open": 13.16,
                     "close": 13.12
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 13.24,
+                    "close": 13.45
                 }
             ],
             "scores": [
@@ -372,8 +447,8 @@
                     "score": -0.008314436885865528
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": -0.0022658610271902857
         },
         "DE": {
             "name": "DE",
@@ -389,6 +464,11 @@
                     "date": "2021-04-30",
                     "open": 372.55,
                     "close": 370.85
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 376.5,
+                    "close": 373.77
                 }
             ],
             "scores": [
@@ -397,8 +477,8 @@
                     "score": -0.012725301324104765
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.006268260292164651
         },
         "WBA": {
             "name": "WBA",
@@ -414,6 +494,11 @@
                     "date": "2021-04-30",
                     "open": 52.47,
                     "close": 53.1
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 53.44,
+                    "close": 54.3
                 }
             ],
             "scores": [
@@ -422,8 +507,8 @@
                     "score": -0.02693787795492031
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.01927395209580851
         },
         "JPM": {
             "name": "JPM",
@@ -439,6 +524,11 @@
                     "date": "2021-04-30",
                     "open": 154.1,
                     "close": 153.81
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 154.85,
+                    "close": 153.36
                 }
             ],
             "scores": [
@@ -447,8 +537,8 @@
                     "score": 0.012574101879161415
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.017242492734904857
         },
         "HD": {
             "name": "HD",
@@ -464,6 +554,11 @@
                     "date": "2021-04-30",
                     "open": 325.05,
                     "close": 323.67
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 326.28,
+                    "close": 330.27
                 }
             ],
             "scores": [
@@ -472,8 +567,8 @@
                     "score": 0.054711922335898056
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.017684197621674835
         },
         "AMGN": {
             "name": "AMGN",
@@ -489,6 +584,11 @@
                     "date": "2021-04-30",
                     "open": 234.27,
                     "close": 239.64
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 240.67,
+                    "close": 245.38
                 }
             ],
             "scores": [
@@ -497,8 +597,8 @@
                     "score": -0.04040362055665914
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.036065982465616875
         },
         "UNH": {
             "name": "UNH",
@@ -514,6 +614,11 @@
                     "date": "2021-04-30",
                     "open": 401.0,
                     "close": 398.8
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 401.0,
+                    "close": 405.9
                 }
             ],
             "scores": [
@@ -522,8 +627,8 @@
                     "score": 0.07146691870606392
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.02867830423940143
         },
         "JNJ": {
             "name": "JNJ",
@@ -539,6 +644,11 @@
                     "date": "2021-04-30",
                     "open": 164.15,
                     "close": 162.73
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 163.6,
+                    "close": 165.21
                 }
             ],
             "scores": [
@@ -547,8 +657,8 @@
                     "score": 0.0007994710652101666
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.021210268948655298
         },
         "MRK": {
             "name": "MRK",
@@ -564,6 +674,11 @@
                     "date": "2021-04-30",
                     "open": 73.58,
                     "close": 74.5
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 74.26,
+                    "close": 75.98
                 }
             ],
             "scores": [
@@ -572,8 +687,8 @@
                     "score": -0.03447387068564689
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.04632372744411528
         },
         "WMT": {
             "name": "WMT",
@@ -589,6 +704,11 @@
                     "date": "2021-04-30",
                     "open": 139.71,
                     "close": 139.91
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 139.68,
+                    "close": 142.12
                 }
             ],
             "scores": [
@@ -597,8 +717,8 @@
                     "score": 0.029204045472943196
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.0065864833906070785
         },
         "COST": {
             "name": "COST",
@@ -614,6 +734,11 @@
                     "date": "2021-04-30",
                     "open": 372.91,
                     "close": 372.09
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 373.84,
+                    "close": 379.32
                 }
             ],
             "scores": [
@@ -622,8 +747,8 @@
                     "score": 0.05545467323114517
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": -0.0035844211427348283
         },
         "PFE": {
             "name": "PFE",
@@ -639,6 +764,11 @@
                     "date": "2021-04-30",
                     "open": 38.5,
                     "close": 38.65
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 39.04,
+                    "close": 39.83
                 }
             ],
             "scores": [
@@ -647,8 +777,8 @@
                     "score": 0.06473832134265356
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.023821721311475308
         },
         "BSX": {
             "name": "BSX",
@@ -664,6 +794,11 @@
                     "date": "2021-04-30",
                     "open": 43.84,
                     "close": 43.6
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 43.6,
+                    "close": 43.63
                 }
             ],
             "scores": [
@@ -672,8 +807,8 @@
                     "score": 0.12924109999375566
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": -0.011697247706421998
         },
         "HUM": {
             "name": "HUM",
@@ -689,6 +824,11 @@
                     "date": "2021-04-30",
                     "open": 448.2,
                     "close": 445.24
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 447.56,
+                    "close": 450.6
                 }
             ],
             "scores": [
@@ -697,8 +837,8 @@
                     "score": 0.06343748792410042
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.02799624631334341
         },
         "DXCM": {
             "name": "DXCM",
@@ -714,6 +854,11 @@
                     "date": "2021-04-30",
                     "open": 400.0,
                     "close": 386.1
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 386.1,
+                    "close": 380.57
                 }
             ],
             "scores": [
@@ -722,8 +867,8 @@
                     "score": 0.06536794166421522
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": -0.05221445221445231
         },
         "LOW": {
             "name": "LOW",
@@ -739,6 +884,11 @@
                     "date": "2021-04-30",
                     "open": 197.8,
                     "close": 196.25
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 198.75,
+                    "close": 199.2
                 }
             ],
             "scores": [
@@ -747,8 +897,8 @@
                     "score": 0.026412149996006606
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.0062893081761006275
         },
         "BAC": {
             "name": "BAC",
@@ -764,6 +914,11 @@
                     "date": "2021-04-30",
                     "open": 40.84,
                     "close": 40.53
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 40.87,
+                    "close": 40.56
                 }
             ],
             "scores": [
@@ -772,8 +927,8 @@
                     "score": 0.043780528262656215
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.012723268901394746
         },
         "CVS": {
             "name": "CVS",
@@ -789,6 +944,11 @@
                     "date": "2021-04-30",
                     "open": 76.44,
                     "close": 76.4
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 77.0,
+                    "close": 77.69
                 }
             ],
             "scores": [
@@ -797,8 +957,8 @@
                     "score": 0.01555226576290325
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.07844155844155853
         },
         "INTC": {
             "name": "INTC",
@@ -814,6 +974,11 @@
                     "date": "2021-04-30",
                     "open": 57.61,
                     "close": 57.53
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 57.86,
+                    "close": 57.26
                 }
             ],
             "scores": [
@@ -822,8 +987,8 @@
                     "score": -0.11109395687432078
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": -0.017455928102315887
         },
         "GS": {
             "name": "GS",
@@ -839,6 +1004,11 @@
                     "date": "2021-04-30",
                     "open": 351.12,
                     "close": 348.45
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 350.34,
+                    "close": 350.16
                 }
             ],
             "scores": [
@@ -847,8 +1017,8 @@
                     "score": 0.07446812486468546
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.02077981389507344
         },
         "CSCO": {
             "name": "CSCO",
@@ -864,6 +1034,11 @@
                     "date": "2021-04-30",
                     "open": 51.22,
                     "close": 50.91
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 51.21,
+                    "close": 51.17
                 }
             ],
             "scores": [
@@ -872,8 +1047,8 @@
                     "score": -0.016231884057971047
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": -0.0015621948838117072
         },
         "MSFT": {
             "name": "MSFT",
@@ -889,6 +1064,11 @@
                     "date": "2021-04-30",
                     "open": 249.74,
                     "close": 252.18
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 253.4,
+                    "close": 251.86
                 }
             ],
             "scores": [
@@ -897,8 +1077,8 @@
                     "score": 0.05749150393134772
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": -0.02734806629834252
         },
         "IBM": {
             "name": "IBM",
@@ -914,6 +1094,11 @@
                     "date": "2021-04-30",
                     "open": 143.7,
                     "close": 141.88
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 143.81,
+                    "close": 144.75
                 }
             ],
             "scores": [
@@ -922,8 +1107,8 @@
                     "score": 0.060705781276382265
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.009804603296015513
         },
         "DIS": {
             "name": "DIS",
@@ -939,6 +1124,11 @@
                     "date": "2021-04-30",
                     "open": 184.29,
                     "close": 186.02
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 187.69,
+                    "close": 185.51
                 }
             ],
             "scores": [
@@ -947,8 +1137,8 @@
                     "score": -0.0021991793992074404
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": -0.03292663434386489
         },
         "VZ": {
             "name": "VZ",
@@ -964,6 +1154,11 @@
                     "date": "2021-04-30",
                     "open": 57.35,
                     "close": 57.79
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 58.23,
+                    "close": 57.92
                 }
             ],
             "scores": [
@@ -972,8 +1167,8 @@
                     "score": -0.003964150293002455
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.00789970805426754
         },
         "AAPL": {
             "name": "AAPL",
@@ -989,6 +1184,11 @@
                     "date": "2021-04-30",
                     "open": 131.78,
                     "close": 131.46
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 132.04,
+                    "close": 132.54
                 }
             ],
             "scores": [
@@ -997,8 +1197,8 @@
                     "score": 0.0630761422262287
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": -0.02983944259315352
         },
         "QCOM": {
             "name": "QCOM",
@@ -1014,6 +1214,11 @@
                     "date": "2021-04-30",
                     "open": 141.07,
                     "close": 138.8
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 139.7,
+                    "close": 137.43
                 }
             ],
             "scores": [
@@ -1022,8 +1227,8 @@
                     "score": 0.0319702602230485
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": -0.036148890479599016
         },
         "TMUS": {
             "name": "TMUS",
@@ -1039,6 +1244,11 @@
                     "date": "2021-04-30",
                     "open": 133.05,
                     "close": 132.13
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 132.58,
+                    "close": 131.45
                 }
             ],
             "scores": [
@@ -1047,8 +1257,8 @@
                     "score": 0.04981724892883155
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.011691054457685812
         },
         "VIAC": {
             "name": "VIAC",
@@ -1064,6 +1274,11 @@
                     "date": "2021-04-30",
                     "open": 41.35,
                     "close": 41.02
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 40.96,
+                    "close": 39.66
                 }
             ],
             "scores": [
@@ -1072,8 +1287,8 @@
                     "score": -0.1002412809826716
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": -0.04541015625
         },
         "AMAT": {
             "name": "AMAT",
@@ -1089,6 +1304,11 @@
                     "date": "2021-04-30",
                     "open": 132.0,
                     "close": 132.71
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 134.25,
+                    "close": 132.85
                 }
             ],
             "scores": [
@@ -1097,8 +1317,8 @@
                     "score": -0.039307941503604504
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": -0.02949720670391065
         },
         "ADBE": {
             "name": "ADBE",
@@ -1114,6 +1334,11 @@
                     "date": "2021-04-30",
                     "open": 514.13,
                     "close": 508.34
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 510.97,
+                    "close": 503.46
                 }
             ],
             "scores": [
@@ -1122,8 +1347,8 @@
                     "score": 0.052202362272337766
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": -0.04751746677887159
         },
         "ASML": {
             "name": "ASML",
@@ -1139,6 +1364,11 @@
                     "date": "2021-04-30",
                     "open": 654.27,
                     "close": 648.1
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 657.71,
+                    "close": 654.43
                 }
             ],
             "scores": [
@@ -1147,8 +1377,8 @@
                     "score": 0.04565991053229901
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": -0.024068358395037404
         },
         "MS": {
             "name": "MS",
@@ -1164,6 +1394,11 @@
                     "date": "2021-04-30",
                     "open": 82.89,
                     "close": 82.55
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 83.11,
+                    "close": 82.46
                 }
             ],
             "scores": [
@@ -1172,8 +1407,8 @@
                     "score": 0.0599640880828487
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.01684514498856937
         },
         "AMD": {
             "name": "AMD",
@@ -1189,6 +1424,11 @@
                     "date": "2021-04-30",
                     "open": 82.97,
                     "close": 81.62
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 81.97,
+                    "close": 78.55
                 }
             ],
             "scores": [
@@ -1197,8 +1437,8 @@
                     "score": 0.01821352204523352
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": -0.05050628278638525
         },
         "CVX": {
             "name": "CVX",
@@ -1214,6 +1454,11 @@
                     "date": "2021-04-30",
                     "open": 104.98,
                     "close": 103.07
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 103.98,
+                    "close": 105.53
                 }
             ],
             "scores": [
@@ -1222,8 +1467,8 @@
                     "score": -0.02080564277397612
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.04789382573571821
         },
         "AXP": {
             "name": "AXP",
@@ -1239,6 +1484,11 @@
                     "date": "2021-04-30",
                     "open": 153.6,
                     "close": 153.35
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 154.59,
+                    "close": 154.8
                 }
             ],
             "scores": [
@@ -1247,8 +1497,8 @@
                     "score": 0.07735003730083001
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.011643702697457625
         },
         "DOW": {
             "name": "DOW",
@@ -1264,6 +1514,11 @@
                     "date": "2021-04-30",
                     "open": 63.45,
                     "close": 62.5
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 63.18,
+                    "close": 64.55
                 }
             ],
             "scores": [
@@ -1272,8 +1527,8 @@
                     "score": -0.0226739793170605
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.07739791073124391
         },
         "MMM": {
             "name": "MMM",
@@ -1289,6 +1544,11 @@
                     "date": "2021-04-30",
                     "open": 197.66,
                     "close": 197.14
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 197.99,
+                    "close": 198.61
                 }
             ],
             "scores": [
@@ -1297,8 +1557,8 @@
                     "score": 0.020129366106080182
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.01742512248093342
         },
         "MCD": {
             "name": "MCD",
@@ -1314,6 +1574,11 @@
                     "date": "2021-04-30",
                     "open": 234.0,
                     "close": 236.08
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 237.99,
+                    "close": 235.56
                 }
             ],
             "scores": [
@@ -1322,8 +1587,8 @@
                     "score": 0.050785606006904516
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": -0.012395478801630389
         },
         "V": {
             "name": "V",
@@ -1339,6 +1604,11 @@
                     "date": "2021-04-30",
                     "open": 235.32,
                     "close": 233.56
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 234.05,
+                    "close": 232.61
                 }
             ],
             "scores": [
@@ -1347,8 +1617,8 @@
                     "score": 0.0925250308378942
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": -0.020679342020935687
         },
         "KO": {
             "name": "KO",
@@ -1364,6 +1634,11 @@
                     "date": "2021-04-30",
                     "open": 54.25,
                     "close": 53.98
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 54.27,
+                    "close": 54.48
                 }
             ],
             "scores": [
@@ -1372,8 +1647,8 @@
                     "score": 0.019259837976960625
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": -0.004975124378109541
         },
         "NEE": {
             "name": "NEE",
@@ -1389,6 +1664,11 @@
                     "date": "2021-04-30",
                     "open": 77.24,
                     "close": 77.51
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 77.83,
+                    "close": 76.7
                 }
             ],
             "scores": [
@@ -1397,8 +1677,8 @@
                     "score": 0.026622516556291442
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": -0.05203648978542974
         },
         "ETR": {
             "name": "ETR",
@@ -1414,6 +1694,11 @@
                     "date": "2021-04-30",
                     "open": 108.73,
                     "close": 109.29
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 109.41,
+                    "close": 109.23
                 }
             ],
             "scores": [
@@ -1422,8 +1707,8 @@
                     "score": 0.10349352682256141
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": -0.02257563294031628
         },
         "PEP": {
             "name": "PEP",
@@ -1439,6 +1724,11 @@
                     "date": "2021-04-30",
                     "open": 143.32,
                     "close": 144.16
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 145.03,
+                    "close": 145.79
                 }
             ],
             "scores": [
@@ -1447,8 +1737,8 @@
                     "score": 0.021035469636157433
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": -0.007860442667034562
         },
         "MA": {
             "name": "MA",
@@ -1464,6 +1754,11 @@
                     "date": "2021-04-30",
                     "open": 382.86,
                     "close": 382.06
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 385.47,
+                    "close": 379.4
                 }
             ],
             "scores": [
@@ -1472,8 +1767,8 @@
                     "score": 0.07007615496671127
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": -0.04236386748644527
         },
         "SBUX": {
             "name": "SBUX",
@@ -1489,6 +1784,11 @@
                     "date": "2021-04-30",
                     "open": 114.0,
                     "close": 114.49
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 115.18,
+                    "close": 115.72
                 }
             ],
             "scores": [
@@ -1497,8 +1797,8 @@
                     "score": 0.04025079120935482
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": -0.014759506858829652
         },
         "PPG": {
             "name": "PPG",
@@ -1514,6 +1814,11 @@
                     "date": "2021-04-30",
                     "open": 172.89,
                     "close": 171.24
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 172.64,
+                    "close": 173.01
                 }
             ],
             "scores": [
@@ -1522,8 +1827,8 @@
                     "score": 0.13962468852737553
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.03707136237256714
         },
         "DD": {
             "name": "DD",
@@ -1539,6 +1844,11 @@
                     "date": "2021-04-30",
                     "open": 77.8,
                     "close": 77.11
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 77.91,
+                    "close": 78.28
                 }
             ],
             "scores": [
@@ -1547,8 +1857,8 @@
                     "score": -0.00720996542319996
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.038634321653189696
         },
         "PYPL": {
             "name": "PYPL",
@@ -1564,6 +1874,11 @@
                     "date": "2021-04-30",
                     "open": 265.0,
                     "close": 262.29
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 265.06,
+                    "close": 259.09
                 }
             ],
             "scores": [
@@ -1572,8 +1887,8 @@
                     "score": 0.057450441066574376
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": -0.0666264242058402
         },
         "HAL": {
             "name": "HAL",
@@ -1589,6 +1904,11 @@
                     "date": "2021-04-30",
                     "open": 20.06,
                     "close": 19.56
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 20.13,
+                    "close": 20.66
                 }
             ],
             "scores": [
@@ -1597,8 +1917,8 @@
                     "score": -0.09695290858725769
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.09289617486338808
         },
         "SPY": {
             "name": "SPY",
@@ -1614,6 +1934,11 @@
                     "date": "2021-04-30",
                     "open": 417.63,
                     "close": 417.3
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 419.43,
+                    "close": 418.2
                 }
             ],
             "scores": [
@@ -1622,8 +1947,8 @@
                     "score": 0.04743977481083994
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": -0.00877381207829675
         },
         "QQQ": {
             "name": "QQQ",
@@ -1638,17 +1963,22 @@
                 {
                     "date": "2021-04-30",
                     "open": 337.7,
-                    "close": 337.99
+                    "close": 337.89
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 339.23,
+                    "close": 336.19
                 }
             ],
             "scores": [
                 {
                     "number": 0,
-                    "score": 0.0461819193262345
+                    "score": 0.04587238889062206
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": -0.030068095392506655
         },
         "DIA": {
             "name": "DIA",
@@ -1664,6 +1994,11 @@
                     "date": "2021-04-30",
                     "open": 338.92,
                     "close": 338.94
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 340.79,
+                    "close": 341.11
                 }
             ],
             "scores": [
@@ -1672,8 +2007,8 @@
                     "score": 0.02466896736401525
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.004372194019777398
         },
         "RSP": {
             "name": "RSP",
@@ -1689,6 +2024,11 @@
                     "date": "2021-04-30",
                     "open": 148.66,
                     "close": 148.28
+                },
+                {
+                    "date": "2021-05-03",
+                    "open": 149.14,
+                    "close": 149.16
                 }
             ],
             "scores": [
@@ -1697,8 +2037,8 @@
                     "score": 0.04319685551707386
                 }
             ],
-            "currentScoreDate": "2021-04-30",
-            "currentRoundScore": 0
+            "currentScoreDate": "2021-05-05",
+            "currentRoundScore": 0.001072817486925226
         },
         "STONKS": {
             "name": "STONKS",
@@ -1709,7 +2049,8 @@
                 {
                     "number": 0,
                     "score": 0.0292
-                }]
+                }
+            ]
         }
     }
 }
