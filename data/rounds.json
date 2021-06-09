@@ -1,0 +1,68 @@
+[
+    {
+      "number": 0,
+      "name": "First Round",
+      "start": "2021-04-01",
+      "end": "2021-04-30",
+      "tradingDaysTotal": 22,
+      "tradingDaysElapsed": 22,
+      "stakes": 10,
+      "incremental": 640,
+      "show": true
+    },
+    {
+      "number": 1,
+      "name": "Second Round",
+      "start": "2021-05-03",
+      "end": "2021-05-28",
+      "tradingDaysTotal": 20,
+      "tradingDaysElapsed": 20,
+      "stakes": 40,
+      "incremental": 640,
+      "show": true
+    },
+    {
+      "number": 2,
+      "name": "Sweet 16",
+      "start": "2021-06-01",
+      "end": "2021-06-30",
+      "tradingDaysTotal": 22,
+      "tradingDaysElapsed": 3,
+      "stakes": 160,
+      "incremental": 1280,
+      "show": true
+    },
+    {
+      "number": 3,
+      "name": "Elite 8",
+      "start": "2021-07-01",
+      "end": "2021-07-30",
+      "tradingDaysTotal": 22,
+      "tradingDaysElapsed": 0,
+      "stakes": 640,
+      "incremental": 2560,
+      "show": false
+    },
+    {
+      "number": 4,
+      "name": "Final 4",
+      "start": "2021-08-02",
+      "end": "2021-08-31",
+      "tradingDaysTotal": 22,
+      "tradingDaysElapsed": 0,
+      "stakes": 2400,
+      "incremental": 5120,
+      "show": false
+    },
+    {
+      "number": 5,
+      "name": "Championship",
+      "start": "2021-09-01",
+      "end": "2021-09-30",
+      "tradingDaysTotal": 21,
+      "tradingDaysElapsed": 0,
+      "stakes": 5000,
+      "incremental": 0,
+      "show": false
+    }
+]
