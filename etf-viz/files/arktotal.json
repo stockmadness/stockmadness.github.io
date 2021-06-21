@@ -1572,12 +1572,12 @@
                                     "children": [
                                         {
                                             "name": "TDOC",
-                                            "value": 68300.0,
+                                            "value": 68500.0,
                                             "holdingtype": "indirect"
                                         },
                                         {
                                             "name": "ACCD",
-                                            "value": 32100.0,
+                                            "value": 31400.0,
                                             "holdingtype": "indirect"
                                         },
                                         {
@@ -1587,7 +1587,7 @@
                                         },
                                         {
                                             "name": "TXG",
-                                            "value": 25500.0,
+                                            "value": 25800.0,
                                             "holdingtype": "indirect"
                                         },
                                         {
@@ -1597,7 +1597,7 @@
                                         },
                                         {
                                             "name": "SGFY",
-                                            "value": 13200.0,
+                                            "value": 13300.0,
                                             "holdingtype": "indirect"
                                         },
                                         {
@@ -1606,7 +1606,7 @@
                                             "holdingtype": "indirect"
                                         }
                                     ],
-                                    "value": 201600.0,
+                                    "value": 201500.0,
                                     "holdingtype": "indirect"
                                 },
                                 {
@@ -1614,37 +1614,37 @@
                                     "children": [
                                         {
                                             "name": "EXAS",
-                                            "value": 52900.0,
+                                            "value": 54500.0,
                                             "holdingtype": "indirect"
                                         },
                                         {
                                             "name": "CDNA",
-                                            "value": 46200.0,
+                                            "value": 47000.0,
                                             "holdingtype": "indirect"
                                         },
                                         {
                                             "name": "PACB",
-                                            "value": 41800.0,
+                                            "value": 43200.0,
                                             "holdingtype": "indirect"
                                         },
                                         {
                                             "name": "TWST",
-                                            "value": 32600.0,
+                                            "value": 33700.0,
                                             "holdingtype": "indirect"
                                         },
                                         {
                                             "name": "CSTL",
-                                            "value": 20900.0,
+                                            "value": 21500.0,
                                             "holdingtype": "indirect"
                                         },
                                         {
                                             "name": "NVTA",
-                                            "value": 17200.0,
+                                            "value": 18000.0,
                                             "holdingtype": "indirect"
                                         },
                                         {
                                             "name": "PSNL",
-                                            "value": 13300.0,
+                                            "value": 13700.0,
                                             "holdingtype": "indirect"
                                         },
                                         {
@@ -1653,7 +1653,7 @@
                                             "holdingtype": "indirect"
                                         }
                                     ],
-                                    "value": 225200.0,
+                                    "value": 231900.0,
                                     "holdingtype": "indirect"
                                 },
                                 {
@@ -1666,27 +1666,27 @@
                                         },
                                         {
                                             "name": "FATE",
-                                            "value": 37200.0,
-                                            "holdingtype": "indirect"
-                                        },
-                                        {
-                                            "name": "VRTX",
                                             "value": 37000.0,
                                             "holdingtype": "indirect"
                                         },
                                         {
+                                            "name": "VRTX",
+                                            "value": 36300.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
                                             "name": "IONS",
-                                            "value": 33800.0,
+                                            "value": 33400.0,
                                             "holdingtype": "indirect"
                                         },
                                         {
                                             "name": "INCY",
-                                            "value": 27300.0,
+                                            "value": 26600.0,
                                             "holdingtype": "indirect"
                                         },
                                         {
                                             "name": "CRSP",
-                                            "value": 25300.0,
+                                            "value": 25500.0,
                                             "holdingtype": "indirect"
                                         },
                                         {
@@ -1696,37 +1696,37 @@
                                         },
                                         {
                                             "name": "ADPT",
-                                            "value": 18400.0,
+                                            "value": 18900.0,
                                             "holdingtype": "indirect"
                                         },
                                         {
                                             "name": "BLI",
-                                            "value": 17200.0,
+                                            "value": 17800.0,
                                             "holdingtype": "indirect"
                                         },
                                         {
                                             "name": "BEAM",
-                                            "value": 16500.0,
+                                            "value": 16400.0,
                                             "holdingtype": "indirect"
                                         },
                                         {
                                             "name": "CDXS",
-                                            "value": 14800.0,
+                                            "value": 14200.0,
                                             "holdingtype": "indirect"
                                         },
                                         {
                                             "name": "NTLA",
-                                            "value": 14700.0,
+                                            "value": 13800.0,
                                             "holdingtype": "indirect"
                                         },
                                         {
                                             "name": "RXRX",
-                                            "value": 8900.0,
+                                            "value": 9000.0,
                                             "holdingtype": "indirect"
                                         },
                                         {
                                             "name": "VCYT",
-                                            "value": 8300.0,
+                                            "value": 8500.0,
                                             "holdingtype": "indirect"
                                         },
                                         {
@@ -1741,17 +1741,17 @@
                                         },
                                         {
                                             "name": "NSTG",
-                                            "value": 6300.0,
+                                            "value": 6400.0,
                                             "holdingtype": "indirect"
                                         },
                                         {
                                             "name": "MCRB",
-                                            "value": 6000.0,
+                                            "value": 6200.0,
                                             "holdingtype": "indirect"
                                         },
                                         {
                                             "name": "SEER",
-                                            "value": 5400.0,
+                                            "value": 5500.0,
                                             "holdingtype": "indirect"
                                         },
                                         {
@@ -1761,7 +1761,7 @@
                                         },
                                         {
                                             "name": "SRPT",
-                                            "value": 4800.0,
+                                            "value": 4400.0,
                                             "holdingtype": "indirect"
                                         },
                                         {
@@ -1795,7 +1795,7 @@
                                             "holdingtype": "indirect"
                                         }
                                     ],
-                                    "value": 377900.0,
+                                    "value": 375900.0,
                                     "holdingtype": "indirect"
                                 },
                                 {
@@ -1803,21 +1803,21 @@
                                     "children": [
                                         {
                                             "name": "NVS",
-                                            "value": 36900.0,
+                                            "value": 32500.0,
                                             "holdingtype": "indirect"
                                         },
                                         {
                                             "name": "BMY",
-                                            "value": 14100.0,
+                                            "value": 13800.0,
                                             "holdingtype": "indirect"
                                         },
                                         {
                                             "name": "ABBV",
-                                            "value": 7000.0,
+                                            "value": 6800.0,
                                             "holdingtype": "indirect"
                                         }
                                     ],
-                                    "value": 58000.0,
+                                    "value": 53100.0,
                                     "holdingtype": "indirect"
                                 },
                                 {
@@ -1825,15 +1825,15 @@
                                     "children": [
                                         {
                                             "name": "BFLY",
-                                            "value": 12500.0,
+                                            "value": 12000.0,
                                             "holdingtype": "indirect"
                                         }
                                     ],
-                                    "value": 12500.0,
+                                    "value": 12000.0,
                                     "holdingtype": "indirect"
                                 }
                             ],
-                            "value": 875200.0,
+                            "value": 874400.0,
                             "holdingtype": "indirect"
                         },
                         {
@@ -1844,21 +1844,31 @@
                                     "children": [
                                         {
                                             "name": "TAK UN",
-                                            "value": 30300.0,
+                                            "value": 28400.0,
                                             "holdingtype": "indirect"
                                         },
                                         {
                                             "name": "RHHBY",
-                                            "value": 26600.0,
+                                            "value": 25800.0,
                                             "holdingtype": "indirect"
                                         },
                                         {
                                             "name": "ARCT UQ",
-                                            "value": 11000.0,
+                                            "value": 11100.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "VERV",
+                                            "value": 1900.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "QSI",
+                                            "value": 600.0,
                                             "holdingtype": "indirect"
                                         }
                                     ],
-                                    "value": 67900.0,
+                                    "value": 67800.0,
                                     "holdingtype": "indirect"
                                 },
                                 {
@@ -1866,11 +1876,11 @@
                                     "children": [
                                         {
                                             "name": "MASS",
-                                            "value": 11000.0,
+                                            "value": 11100.0,
                                             "holdingtype": "indirect"
                                         }
                                     ],
-                                    "value": 11000.0,
+                                    "value": 11100.0,
                                     "holdingtype": "indirect"
                                 }
                             ],
@@ -1885,11 +1895,11 @@
                                     "children": [
                                         {
                                             "name": "PSTG",
-                                            "value": 12900.0,
+                                            "value": 12600.0,
                                             "holdingtype": "indirect"
                                         }
                                     ],
-                                    "value": 12900.0,
+                                    "value": 12600.0,
                                     "holdingtype": "indirect"
                                 },
                                 {
@@ -1897,15 +1907,15 @@
                                     "children": [
                                         {
                                             "name": "PATH",
-                                            "value": 10400.0,
+                                            "value": 10200.0,
                                             "holdingtype": "indirect"
                                         }
                                     ],
-                                    "value": 10400.0,
+                                    "value": 10200.0,
                                     "holdingtype": "indirect"
                                 }
                             ],
-                            "value": 23300.0,
+                            "value": 22800.0,
                             "holdingtype": "indirect"
                         },
                         {
@@ -1916,7 +1926,7 @@
                                     "children": [
                                         {
                                             "name": "CMLF",
-                                            "value": 6100.0,
+                                            "value": 6500.0,
                                             "holdingtype": "indirect"
                                         },
                                         {
@@ -1925,11 +1935,11 @@
                                             "holdingtype": "indirect"
                                         }
                                     ],
-                                    "value": 8400.0,
+                                    "value": 8800.0,
                                     "holdingtype": "indirect"
                                 }
                             ],
-                            "value": 8400.0,
+                            "value": 8800.0,
                             "holdingtype": "indirect"
                         },
                         {
@@ -1940,15 +1950,15 @@
                                     "children": [
                                         {
                                             "name": "ZY",
-                                            "value": 5500.0,
+                                            "value": 5200.0,
                                             "holdingtype": "indirect"
                                         }
                                     ],
-                                    "value": 5500.0,
+                                    "value": 5200.0,
                                     "holdingtype": "indirect"
                                 }
                             ],
-                            "value": 5500.0,
+                            "value": 5200.0,
                             "holdingtype": "indirect"
                         },
                         {
@@ -1971,11 +1981,11 @@
                             "holdingtype": "indirect"
                         }
                     ],
-                    "value": 995700.0,
+                    "value": 994500.0,
                     "holdingtype": "indirect"
                 }
             ],
-            "value": 995700.0,
+            "value": 994500.0,
             "holdingtype": "indirect"
         },
         {
@@ -3826,6 +3836,6 @@
             "holdingtype": "indirect"
         }
     ],
-    "value": 7981000.0,
+    "value": 7979800.0,
     "holdingtype": "indirect"
 }

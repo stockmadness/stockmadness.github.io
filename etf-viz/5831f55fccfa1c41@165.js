@@ -12,8 +12,9 @@ export default function define(runtime, observer) {
   main.variable(observer()).define(["md"], function(md){return(
 md`# Market Distribution
 ## Pick a view
-Viewing the **indices** segments at the top level by market cap.
-Viewing the **segmentation** segments at the bottom level by market cap.
+- Viewing the **indices** segments at the top level by market cap.
+- Viewing the **segmentation** segments at the bottom level by market cap.
+- Access date was 2021-06-18
 
 ## About the indices
 ### Standard & Poors
