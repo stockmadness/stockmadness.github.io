@@ -1,0 +1,3831 @@
+{
+    "name": "holdings",
+    "children": [
+        {
+            "name": "ARKK",
+            "children": [
+                {
+                    "name": "equities",
+                    "children": [
+                        {
+                            "name": "Consumer Cyclical",
+                            "children": [
+                                {
+                                    "name": "Auto Manufacturers",
+                                    "children": [
+                                        {
+                                            "name": "TSLA",
+                                            "value": 96000.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 96000.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Gambling",
+                                    "children": [
+                                        {
+                                            "name": "DKNG",
+                                            "value": 19200.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 19200.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 115200.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Healthcare",
+                            "children": [
+                                {
+                                    "name": "Health Information Services",
+                                    "children": [
+                                        {
+                                            "name": "TDOC",
+                                            "value": 59700.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "TXG",
+                                            "value": 23900.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 83600.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Diagnostics & Research",
+                                    "children": [
+                                        {
+                                            "name": "EXAS",
+                                            "value": 32300.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "NVTA",
+                                            "value": 19100.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "TWST",
+                                            "value": 11400.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "PACB",
+                                            "value": 8300.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 71100.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Biotechnology",
+                                    "children": [
+                                        {
+                                            "name": "CRSP",
+                                            "value": 28000.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "BEAM",
+                                            "value": 17400.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "NTLA",
+                                            "value": 15800.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "FATE",
+                                            "value": 12600.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "IOVA",
+                                            "value": 11900.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "EDIT",
+                                            "value": 7700.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "BLI",
+                                            "value": 7700.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "VCYT",
+                                            "value": 5900.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "MCRB",
+                                            "value": 5400.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "NSTG",
+                                            "value": 5300.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "CERS",
+                                            "value": 3600.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "CGEN",
+                                            "value": 2500.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 123800.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Drug Manufacturers-General",
+                                    "children": [
+                                        {
+                                            "name": "NVS",
+                                            "value": 4100.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 4100.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 282600.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Communication Services",
+                            "children": [
+                                {
+                                    "name": "Entertainment",
+                                    "children": [
+                                        {
+                                            "name": "ROKU",
+                                            "value": 55000.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 55000.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Telecom Services",
+                                    "children": [
+                                        {
+                                            "name": "ZM",
+                                            "value": 46500.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "IRDM",
+                                            "value": 15300.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 61800.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Internet Content & Information",
+                                    "children": [
+                                        {
+                                            "name": "TWLO",
+                                            "value": 37100.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "Z",
+                                            "value": 32000.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "TWTR",
+                                            "value": 17800.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 86900.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "RADIO BROADCASTING STATIONS",
+                                    "children": [
+                                        {
+                                            "name": "SPOT",
+                                            "value": 36600.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 36600.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "SERVICES-MISCELLANEOUS BUSINESS SERVICES",
+                                    "children": [
+                                        {
+                                            "name": "SE",
+                                            "value": 17400.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 17400.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "",
+                                    "children": [
+                                        {
+                                            "name": "SKLZ",
+                                            "value": 13000.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 13000.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "unknown",
+                                    "children": [
+                                        {
+                                            "name": "TCEHY",
+                                            "value": 9900.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 9900.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 280600.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Technology",
+                            "children": [
+                                {
+                                    "name": "Software-Application",
+                                    "children": [
+                                        {
+                                            "name": "SHOP",
+                                            "value": 46900.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "COIN",
+                                            "value": 34600.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "DOCU",
+                                            "value": 24600.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "PD",
+                                            "value": 10500.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 116600.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Software-Infrastructure",
+                                    "children": [
+                                        {
+                                            "name": "SQ",
+                                            "value": 46800.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "PLTR",
+                                            "value": 25500.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "PATH",
+                                            "value": 15600.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 87900.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Other",
+                                    "children": [
+                                        {
+                                            "name": "U",
+                                            "value": 35700.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 35700.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Semiconductor Equipment & Materials",
+                                    "children": [
+                                        {
+                                            "name": "TER",
+                                            "value": 11100.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 11100.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Computer Hardware",
+                                    "children": [
+                                        {
+                                            "name": "PSTG",
+                                            "value": 6300.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 6300.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Scientific & Technical Instruments",
+                                    "children": [
+                                        {
+                                            "name": "TRMB",
+                                            "value": 4900.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 4900.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "COMPUTER PERIPHERAL EQUIPMENT, NEC",
+                                    "children": [
+                                        {
+                                            "name": "SSYS",
+                                            "value": 4600.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 4600.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "SERVICES-PREPACKAGED SOFTWARE",
+                                    "children": [
+                                        {
+                                            "name": "MTLS",
+                                            "value": 4300.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 4300.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 271400.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "unknown",
+                            "children": [
+                                {
+                                    "name": "unknown",
+                                    "children": [
+                                        {
+                                            "name": "NTDOY",
+                                            "value": 12400.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 12400.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 12400.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Industrials",
+                            "children": [
+                                {
+                                    "name": "Trucking",
+                                    "children": [
+                                        {
+                                            "name": "TSP",
+                                            "value": 10700.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 10700.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Metal Fabrication",
+                                    "children": [
+                                        {
+                                            "name": "PRLB",
+                                            "value": 8600.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 8600.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 19300.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Consumer Defensive",
+                            "children": [
+                                {
+                                    "name": "Education & Training Services",
+                                    "children": [
+                                        {
+                                            "name": "TWOU",
+                                            "value": 10300.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 10300.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 10300.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Real Estate",
+                            "children": [
+                                {
+                                    "name": "REAL ESTATE AGENTS & MANAGERS (FOR OTHERS)",
+                                    "children": [
+                                        {
+                                            "name": "BEKE",
+                                            "value": 5900.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 5900.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 5900.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Financial Services",
+                            "children": [
+                                {
+                                    "name": "Financial Data & Stock Exchanges",
+                                    "children": [
+                                        {
+                                            "name": "ICE",
+                                            "value": 500.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 500.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 500.0,
+                            "holdingtype": "indirect"
+                        }
+                    ],
+                    "value": 998200.0,
+                    "holdingtype": "indirect"
+                }
+            ],
+            "value": 998200.0,
+            "holdingtype": "indirect"
+        },
+        {
+            "name": "ARKQ",
+            "children": [
+                {
+                    "name": "equities",
+                    "children": [
+                        {
+                            "name": "Consumer Cyclical",
+                            "children": [
+                                {
+                                    "name": "Auto Manufacturers",
+                                    "children": [
+                                        {
+                                            "name": "TSLA",
+                                            "value": 104300.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 104300.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Internet Retail",
+                                    "children": [
+                                        {
+                                            "name": "JD",
+                                            "value": 63500.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "BABA",
+                                            "value": 9400.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 72900.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "MOTOR VEHICLES & PASSENGER CAR BODIES",
+                                    "children": [
+                                        {
+                                            "name": "NIU",
+                                            "value": 25200.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 25200.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "MOTOR VEHICLE PARTS & ACCESSORIES",
+                                    "children": [
+                                        {
+                                            "name": "MGA",
+                                            "value": 17200.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 17200.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 219600.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Technology",
+                            "children": [
+                                {
+                                    "name": "Scientific & Technical Instruments",
+                                    "children": [
+                                        {
+                                            "name": "TRMB",
+                                            "value": 63200.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "TDY",
+                                            "value": 13300.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 76500.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Other",
+                                    "children": [
+                                        {
+                                            "name": "U",
+                                            "value": 33200.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 33200.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Semiconductors",
+                                    "children": [
+                                        {
+                                            "name": "NXPI",
+                                            "value": 27800.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "NVDA",
+                                            "value": 11900.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 39700.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Computer Hardware",
+                                    "children": [
+                                        {
+                                            "name": "DDD",
+                                            "value": 27300.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 27300.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Semiconductor Equipment & Materials",
+                                    "children": [
+                                        {
+                                            "name": "TER",
+                                            "value": 26700.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 26700.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Software-Infrastructure",
+                                    "children": [
+                                        {
+                                            "name": "PATH",
+                                            "value": 24500.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "SNPS",
+                                            "value": 12000.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 36500.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "PRINTED CIRCUIT BOARDS",
+                                    "children": [
+                                        {
+                                            "name": "NNDM",
+                                            "value": 21400.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 21400.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "SERVICES-PREPACKAGED SOFTWARE",
+                                    "children": [
+                                        {
+                                            "name": "MTLS",
+                                            "value": 12600.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 12600.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Consumer Electronics",
+                                    "children": [
+                                        {
+                                            "name": "VUZI",
+                                            "value": 12100.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 12100.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Software-Application",
+                                    "children": [
+                                        {
+                                            "name": "ANSS",
+                                            "value": 10800.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 10800.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "COMPUTER PERIPHERAL EQUIPMENT, NEC",
+                                    "children": [
+                                        {
+                                            "name": "SSYS",
+                                            "value": 8700.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 8700.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 305500.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Industrials",
+                            "children": [
+                                {
+                                    "name": "Aerospace & Defense",
+                                    "children": [
+                                        {
+                                            "name": "KTOS",
+                                            "value": 61600.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "LMT",
+                                            "value": 28800.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "AVAV",
+                                            "value": 14700.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 105100.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Farm & Heavy Construction Machinery",
+                                    "children": [
+                                        {
+                                            "name": "DE",
+                                            "value": 24700.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "CAT",
+                                            "value": 17500.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "PCAR",
+                                            "value": 9300.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 51500.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Specialty Industrial Machinery",
+                                    "children": [
+                                        {
+                                            "name": "RAVN",
+                                            "value": 15900.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "XONE",
+                                            "value": 5800.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 21700.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Trucking",
+                                    "children": [
+                                        {
+                                            "name": "TSP",
+                                            "value": 13900.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 13900.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "AIRCRAFT PARTS & AUXILIARY EQUIPMENT, NEC",
+                                    "children": [
+                                        {
+                                            "name": "ESLT",
+                                            "value": 12300.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 12300.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Metal Fabrication",
+                                    "children": [
+                                        {
+                                            "name": "PRLB",
+                                            "value": 5900.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 5900.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 210400.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Communication Services",
+                            "children": [
+                                {
+                                    "name": "Internet Content & Information",
+                                    "children": [
+                                        {
+                                            "name": "GOOGL",
+                                            "value": 49600.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "BIDU",
+                                            "value": 43200.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 92800.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Telecom Services",
+                                    "children": [
+                                        {
+                                            "name": "IRDM",
+                                            "value": 44300.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 44300.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "unknown",
+                                    "children": [
+                                        {
+                                            "name": "TCEHY",
+                                            "value": 11100.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 11100.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 148200.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "unknown",
+                            "children": [
+                                {
+                                    "name": "unknown",
+                                    "children": [
+                                        {
+                                            "name": "KMTUY",
+                                            "value": 25300.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "BYDDY",
+                                            "value": 22100.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 47400.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "BLANK CHECKS",
+                                    "children": [
+                                        {
+                                            "name": "SPFR",
+                                            "value": 9400.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 9400.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Other",
+                                    "children": [
+                                        {
+                                            "name": "BZ",
+                                            "value": 300.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 300.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 57100.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Healthcare",
+                            "children": [
+                                {
+                                    "name": "Medical Instruments & Supplies",
+                                    "children": [
+                                        {
+                                            "name": "ISRG",
+                                            "value": 15800.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 15800.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Diagnostics & Research",
+                                    "children": [
+                                        {
+                                            "name": "ONVO",
+                                            "value": 500.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 500.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 16300.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Consumer Defensive",
+                            "children": [
+                                {
+                                    "name": "Education & Training Services",
+                                    "children": [
+                                        {
+                                            "name": "TWOU",
+                                            "value": 12800.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 12800.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 12800.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Financial Services",
+                            "children": [
+                                {
+                                    "name": "BLANK CHECKS",
+                                    "children": [
+                                        {
+                                            "name": "BLDE",
+                                            "value": 10800.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "ACIC",
+                                            "value": 10100.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "AONE",
+                                            "value": 7300.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "GLEO",
+                                            "value": 200.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 28400.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 28400.0,
+                            "holdingtype": "indirect"
+                        }
+                    ],
+                    "value": 998300.0,
+                    "holdingtype": "indirect"
+                }
+            ],
+            "value": 998300.0,
+            "holdingtype": "indirect"
+        },
+        {
+            "name": "ARKW",
+            "children": [
+                {
+                    "name": "equities",
+                    "children": [
+                        {
+                            "name": "Consumer Cyclical",
+                            "children": [
+                                {
+                                    "name": "Auto Manufacturers",
+                                    "children": [
+                                        {
+                                            "name": "TSLA",
+                                            "value": 97600.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 97600.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Leisure",
+                                    "children": [
+                                        {
+                                            "name": "PTON",
+                                            "value": 31100.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 31100.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Gambling",
+                                    "children": [
+                                        {
+                                            "name": "DKNG",
+                                            "value": 20200.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 20200.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Internet Retail",
+                                    "children": [
+                                        {
+                                            "name": "JD",
+                                            "value": 18000.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "PDD",
+                                            "value": 16800.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "ETSY",
+                                            "value": 10100.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "MELI",
+                                            "value": 8700.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 53600.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Entertainment",
+                                    "children": [
+                                        {
+                                            "name": "DIS",
+                                            "value": 4500.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 4500.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 207000.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Technology",
+                            "children": [
+                                {
+                                    "name": "Software-Application",
+                                    "children": [
+                                        {
+                                            "name": "SHOP",
+                                            "value": 54300.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "COIN",
+                                            "value": 34300.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "TTD",
+                                            "value": 22900.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "PD",
+                                            "value": 11500.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "DOCU",
+                                            "value": 10100.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 133100.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Software-Infrastructure",
+                                    "children": [
+                                        {
+                                            "name": "SQ",
+                                            "value": 46900.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "PLTR",
+                                            "value": 23700.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "OKTA",
+                                            "value": 14400.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "PATH",
+                                            "value": 12200.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "NET",
+                                            "value": 10400.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 107600.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Other",
+                                    "children": [
+                                        {
+                                            "name": "U",
+                                            "value": 31900.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "SNOW",
+                                            "value": 0.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 31900.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "PRINTED CIRCUIT BOARDS",
+                                    "children": [
+                                        {
+                                            "name": "NNDM",
+                                            "value": 10700.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 10700.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "unknown",
+                                    "children": [
+                                        {
+                                            "name": "ADYEY",
+                                            "value": 9300.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 9300.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Computer Hardware",
+                                    "children": [
+                                        {
+                                            "name": "PSTG",
+                                            "value": 6000.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 6000.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Consumer Electronics",
+                                    "children": [
+                                        {
+                                            "name": "VUZI",
+                                            "value": 4200.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 4200.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 302800.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Communication Services",
+                            "children": [
+                                {
+                                    "name": "Internet Content & Information",
+                                    "children": [
+                                        {
+                                            "name": "TWTR",
+                                            "value": 47200.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "TWLO",
+                                            "value": 38700.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "Z",
+                                            "value": 22200.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "SNAP",
+                                            "value": 10100.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 118200.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "RADIO BROADCASTING STATIONS",
+                                    "children": [
+                                        {
+                                            "name": "SPOT",
+                                            "value": 38100.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 38100.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Entertainment",
+                                    "children": [
+                                        {
+                                            "name": "ROKU",
+                                            "value": 38000.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "NFLX",
+                                            "value": 9800.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 47800.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Telecom Services",
+                                    "children": [
+                                        {
+                                            "name": "ZM",
+                                            "value": 32200.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 32200.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "SERVICES-MISCELLANEOUS BUSINESS SERVICES",
+                                    "children": [
+                                        {
+                                            "name": "SE",
+                                            "value": 31500.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 31500.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "",
+                                    "children": [
+                                        {
+                                            "name": "SKLZ",
+                                            "value": 24900.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 24900.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Electronic Gaming & Multimedia",
+                                    "children": [
+                                        {
+                                            "name": "RBLX",
+                                            "value": 10900.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 10900.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC",
+                                    "children": [
+                                        {
+                                            "name": "",
+                                            "children": [
+                                                {
+                                                    "name": "HUYA",
+                                                    "value": 9600.0,
+                                                    "holdingtype": "indirect"
+                                                }
+                                            ],
+                                            "value": 9600.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 9600.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "unknown",
+                                    "children": [
+                                        {
+                                            "name": "TCEHY",
+                                            "value": 9600.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 9600.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 322800.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Healthcare",
+                            "children": [
+                                {
+                                    "name": "Health Information Services",
+                                    "children": [
+                                        {
+                                            "name": "TDOC",
+                                            "value": 44800.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 44800.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Biotechnology",
+                                    "children": [
+                                        {
+                                            "name": "VCYT",
+                                            "value": 7900.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 7900.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 52700.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Financial Services",
+                            "children": [
+                                {
+                                    "name": "Credit Services",
+                                    "children": [
+                                        {
+                                            "name": "PYPL",
+                                            "value": 14900.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "LC",
+                                            "value": 12600.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 27500.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 27500.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Real Estate",
+                            "children": [
+                                {
+                                    "name": "REAL ESTATE AGENTS & MANAGERS (FOR OTHERS)",
+                                    "children": [
+                                        {
+                                            "name": "BEKE",
+                                            "value": 13300.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 13300.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Real Estate Services",
+                                    "children": [
+                                        {
+                                            "name": "OPEN",
+                                            "value": 12700.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 12700.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 26000.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Consumer Defensive",
+                            "children": [
+                                {
+                                    "name": "Education & Training Services",
+                                    "children": [
+                                        {
+                                            "name": "TWOU",
+                                            "value": 9500.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 9500.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 9500.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "unknown",
+                            "children": [
+                                {
+                                    "name": "unknown",
+                                    "children": [
+                                        {
+                                            "name": "NTDOY",
+                                            "value": 9400.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 9400.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Other",
+                                    "children": [
+                                        {
+                                            "name": "BZ",
+                                            "value": 300.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 300.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 9700.0,
+                            "holdingtype": "indirect"
+                        }
+                    ],
+                    "value": 958000.0,
+                    "holdingtype": "indirect"
+                },
+                {
+                    "name": "crypto",
+                    "children": [
+                        {
+                            "name": "bitcoin",
+                            "children": [
+                                {
+                                    "name": "GBTC",
+                                    "value": 40800.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 40800.0,
+                            "holdingtype": "indirect"
+                        }
+                    ],
+                    "value": 40800.0,
+                    "holdingtype": "indirect"
+                }
+            ],
+            "value": 998800.0,
+            "holdingtype": "indirect"
+        },
+        {
+            "name": "ARKG",
+            "children": [
+                {
+                    "name": "equities",
+                    "children": [
+                        {
+                            "name": "Healthcare",
+                            "children": [
+                                {
+                                    "name": "Health Information Services",
+                                    "children": [
+                                        {
+                                            "name": "TDOC",
+                                            "value": 68300.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "ACCD",
+                                            "value": 32100.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "VEEV",
+                                            "value": 29000.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "TXG",
+                                            "value": 25500.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "SDGR",
+                                            "value": 21600.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "SGFY",
+                                            "value": 13200.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "ONEM",
+                                            "value": 11900.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 201600.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Diagnostics & Research",
+                                    "children": [
+                                        {
+                                            "name": "EXAS",
+                                            "value": 52900.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "CDNA",
+                                            "value": 46200.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "PACB",
+                                            "value": 41800.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "TWST",
+                                            "value": 32600.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "CSTL",
+                                            "value": 20900.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "NVTA",
+                                            "value": 17200.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "PSNL",
+                                            "value": 13300.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "ONVO",
+                                            "value": 300.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 225200.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Biotechnology",
+                                    "children": [
+                                        {
+                                            "name": "REGN",
+                                            "value": 41500.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "FATE",
+                                            "value": 37200.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "VRTX",
+                                            "value": 37000.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "IONS",
+                                            "value": 33800.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "INCY",
+                                            "value": 27300.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "CRSP",
+                                            "value": 25300.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "IOVA",
+                                            "value": 19600.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "ADPT",
+                                            "value": 18400.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "BLI",
+                                            "value": 17200.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "BEAM",
+                                            "value": 16500.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "CDXS",
+                                            "value": 14800.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "NTLA",
+                                            "value": 14700.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "RXRX",
+                                            "value": 8900.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "VCYT",
+                                            "value": 8300.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "CLLS",
+                                            "value": 7600.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "RPTX",
+                                            "value": 7500.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "NSTG",
+                                            "value": 6300.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "MCRB",
+                                            "value": 6000.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "SEER",
+                                            "value": 5400.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "EDIT",
+                                            "value": 5400.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "SRPT",
+                                            "value": 4800.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "CERS",
+                                            "value": 4000.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "CGEN",
+                                            "value": 3700.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "SURF",
+                                            "value": 3600.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "EVGN",
+                                            "value": 1400.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "DRNA",
+                                            "value": 1300.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "PSTI",
+                                            "value": 400.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 377900.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Drug Manufacturers-General",
+                                    "children": [
+                                        {
+                                            "name": "NVS",
+                                            "value": 36900.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "BMY",
+                                            "value": 14100.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "ABBV",
+                                            "value": 7000.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 58000.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Medical Devices",
+                                    "children": [
+                                        {
+                                            "name": "BFLY",
+                                            "value": 12500.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 12500.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 875200.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "unknown",
+                            "children": [
+                                {
+                                    "name": "unknown",
+                                    "children": [
+                                        {
+                                            "name": "TAK UN",
+                                            "value": 30300.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "RHHBY",
+                                            "value": 26600.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "ARCT UQ",
+                                            "value": 11000.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 67900.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Medical Devices",
+                                    "children": [
+                                        {
+                                            "name": "MASS",
+                                            "value": 11000.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 11000.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 78900.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Technology",
+                            "children": [
+                                {
+                                    "name": "Computer Hardware",
+                                    "children": [
+                                        {
+                                            "name": "PSTG",
+                                            "value": 12900.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 12900.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Software-Infrastructure",
+                                    "children": [
+                                        {
+                                            "name": "PATH",
+                                            "value": 10400.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 10400.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 23300.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Financial Services",
+                            "children": [
+                                {
+                                    "name": "Shell Companies",
+                                    "children": [
+                                        {
+                                            "name": "CMLF",
+                                            "value": 6100.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "DYNS",
+                                            "value": 2300.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 8400.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 8400.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Basic Materials",
+                            "children": [
+                                {
+                                    "name": "Chemicals",
+                                    "children": [
+                                        {
+                                            "name": "ZY",
+                                            "value": 5500.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 5500.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 5500.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Consumer Defensive",
+                            "children": [
+                                {
+                                    "name": "Farm Products",
+                                    "children": [
+                                        {
+                                            "name": "AQB",
+                                            "value": 4400.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 4400.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 4400.0,
+                            "holdingtype": "indirect"
+                        }
+                    ],
+                    "value": 995700.0,
+                    "holdingtype": "indirect"
+                }
+            ],
+            "value": 995700.0,
+            "holdingtype": "indirect"
+        },
+        {
+            "name": "ARKF",
+            "children": [
+                {
+                    "name": "equities",
+                    "children": [
+                        {
+                            "name": "Technology",
+                            "children": [
+                                {
+                                    "name": "Software-Infrastructure",
+                                    "children": [
+                                        {
+                                            "name": "SQ",
+                                            "value": 101900.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "PATH",
+                                            "value": 12300.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 114200.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Software-Application",
+                                    "children": [
+                                        {
+                                            "name": "SHOP",
+                                            "value": 59000.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "COIN",
+                                            "value": 28100.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "DOCU",
+                                            "value": 21200.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "INTU",
+                                            "value": 19000.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "WDAY",
+                                            "value": 17300.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "BILL",
+                                            "value": 12000.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 156600.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "SERVICES-COMPUTER PROCESSING & DATA PREPARATION",
+                                    "children": [
+                                        {
+                                            "name": "STNE",
+                                            "value": 10100.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 10100.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 280900.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Communication Services",
+                            "children": [
+                                {
+                                    "name": "SERVICES-MISCELLANEOUS BUSINESS SERVICES",
+                                    "children": [
+                                        {
+                                            "name": "SE",
+                                            "value": 50000.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 50000.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Internet Content & Information",
+                                    "children": [
+                                        {
+                                            "name": "Z",
+                                            "value": 44200.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "PINS",
+                                            "value": 37600.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "TWLO",
+                                            "value": 34900.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "SNAP",
+                                            "value": 26300.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "FB",
+                                            "value": 25300.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "GOOGL",
+                                            "value": 4900.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 173200.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "unknown",
+                                    "children": [
+                                        {
+                                            "name": "TCEHY",
+                                            "value": 31200.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 31200.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 254400.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Financial Services",
+                            "children": [
+                                {
+                                    "name": "Credit Services",
+                                    "children": [
+                                        {
+                                            "name": "PYPL",
+                                            "value": 46800.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "LC",
+                                            "value": 12000.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 58800.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Financial Data & Stock Exchanges",
+                                    "children": [
+                                        {
+                                            "name": "ICE",
+                                            "value": 20900.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 20900.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Banks-Regional",
+                                    "children": [
+                                        {
+                                            "name": "SI",
+                                            "value": 18300.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 18300.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Capital Markets",
+                                    "children": [
+                                        {
+                                            "name": "SCHW",
+                                            "value": 9300.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 9300.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "COMMERCIAL BANKS, NEC",
+                                    "children": [
+                                        {
+                                            "name": "HDB",
+                                            "value": 5100.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 5100.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 112400.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Consumer Cyclical",
+                            "children": [
+                                {
+                                    "name": "Internet Retail",
+                                    "children": [
+                                        {
+                                            "name": "JD",
+                                            "value": 34900.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "MELI",
+                                            "value": 32800.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "PDD",
+                                            "value": 21400.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "BABA",
+                                            "value": 14100.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "AMZN",
+                                            "value": 11400.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 114600.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Gambling",
+                                    "children": [
+                                        {
+                                            "name": "DKNG",
+                                            "value": 14200.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 14200.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 128800.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "unknown",
+                            "children": [
+                                {
+                                    "name": "unknown",
+                                    "children": [
+                                        {
+                                            "name": "ADYEN",
+                                            "value": 31900.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "3690",
+                                            "value": 26600.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "4689",
+                                            "value": 24200.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "6060",
+                                            "value": 19600.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "TCS LI",
+                                            "value": 16900.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "9923",
+                                            "value": 13500.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "DSY",
+                                            "value": 12500.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "1833",
+                                            "value": 11000.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "4477",
+                                            "value": 10400.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "KSPI",
+                                            "value": 5600.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 172200.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 172200.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Real Estate",
+                            "children": [
+                                {
+                                    "name": "Real Estate Services",
+                                    "children": [
+                                        {
+                                            "name": "OPEN",
+                                            "value": 24900.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 24900.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "REAL ESTATE AGENTS & MANAGERS (FOR OTHERS)",
+                                    "children": [
+                                        {
+                                            "name": "BEKE",
+                                            "value": 14500.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 14500.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 39400.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Healthcare",
+                            "children": [
+                                {
+                                    "name": "Health Information Services",
+                                    "children": [
+                                        {
+                                            "name": "TDOC",
+                                            "value": 10800.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 10800.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 10800.0,
+                            "holdingtype": "indirect"
+                        }
+                    ],
+                    "value": 998900.0,
+                    "holdingtype": "indirect"
+                }
+            ],
+            "value": 998900.0,
+            "holdingtype": "indirect"
+        },
+        {
+            "name": "ARKX",
+            "children": [
+                {
+                    "name": "equities",
+                    "children": [
+                        {
+                            "name": "Technology",
+                            "children": [
+                                {
+                                    "name": "Scientific & Technical Instruments",
+                                    "children": [
+                                        {
+                                            "name": "TRMB",
+                                            "value": 91700.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "TDY",
+                                            "value": 8500.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 100200.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Semiconductors",
+                                    "children": [
+                                        {
+                                            "name": "NVDA",
+                                            "value": 20500.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 20500.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Software-Infrastructure",
+                                    "children": [
+                                        {
+                                            "name": "PATH",
+                                            "value": 18900.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "SNPS",
+                                            "value": 10600.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 29500.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Semiconductor Equipment & Materials",
+                                    "children": [
+                                        {
+                                            "name": "TER",
+                                            "value": 18400.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 18400.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Other",
+                                    "children": [
+                                        {
+                                            "name": "U",
+                                            "value": 18100.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 18100.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Software-Application",
+                                    "children": [
+                                        {
+                                            "name": "ANSS",
+                                            "value": 9800.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 9800.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 196500.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "unknown",
+                            "children": [
+                                {
+                                    "name": "PRNT",
+                                    "value": 66900.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "unknown",
+                                    "children": [
+                                        {
+                                            "name": "2618",
+                                            "value": 41600.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "HO",
+                                            "value": 40700.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "6301",
+                                            "value": 38200.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "DSY",
+                                            "value": 27300.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "3690",
+                                            "value": 21000.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "GRMN U",
+                                            "value": 10100.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 178900.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "BLANK CHECKS",
+                                    "children": [
+                                        {
+                                            "name": "SPFR",
+                                            "value": 11300.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 11300.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 257100.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Communication Services",
+                            "children": [
+                                {
+                                    "name": "Telecom Services",
+                                    "children": [
+                                        {
+                                            "name": "IRDM",
+                                            "value": 63700.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 63700.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Internet Content & Information",
+                                    "children": [
+                                        {
+                                            "name": "GOOGL",
+                                            "value": 29100.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 29100.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Entertainment",
+                                    "children": [
+                                        {
+                                            "name": "NFLX",
+                                            "value": 22200.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 22200.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "unknown",
+                                    "children": [
+                                        {
+                                            "name": "TCEHY",
+                                            "value": 9600.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 9600.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 124600.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Industrials",
+                            "children": [
+                                {
+                                    "name": "Aerospace & Defense",
+                                    "children": [
+                                        {
+                                            "name": "KTOS",
+                                            "value": 61200.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "LHX",
+                                            "value": 53900.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "LMT",
+                                            "value": 43400.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "BA",
+                                            "value": 28800.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "SPR",
+                                            "value": 27700.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "AIR",
+                                            "value": 15400.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "AVAV",
+                                            "value": 11000.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "HEI",
+                                            "value": 10200.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 251600.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Specialty Industrial Machinery",
+                                    "children": [
+                                        {
+                                            "name": "RAVN",
+                                            "value": 16500.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "HON",
+                                            "value": 10900.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 27400.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Farm & Heavy Construction Machinery",
+                                    "children": [
+                                        {
+                                            "name": "DE",
+                                            "value": 14500.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 14500.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "AIRCRAFT PARTS & AUXILIARY EQUIPMENT, NEC",
+                                    "children": [
+                                        {
+                                            "name": "ESLT",
+                                            "value": 14200.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 14200.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 307700.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Consumer Cyclical",
+                            "children": [
+                                {
+                                    "name": "Internet Retail",
+                                    "children": [
+                                        {
+                                            "name": "AMZN",
+                                            "value": 33800.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "JD",
+                                            "value": 21200.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "BABA",
+                                            "value": 14600.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 69600.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 69600.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Financial Services",
+                            "children": [
+                                {
+                                    "name": "BLANK CHECKS",
+                                    "children": [
+                                        {
+                                            "name": "RTP",
+                                            "value": 19400.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "BLDE",
+                                            "value": 14900.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "ACIC",
+                                            "value": 6400.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 40700.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 40700.0,
+                            "holdingtype": "indirect"
+                        }
+                    ],
+                    "value": 996200.0,
+                    "holdingtype": "indirect"
+                }
+            ],
+            "value": 996200.0,
+            "holdingtype": "indirect"
+        },
+        {
+            "name": "PRNT",
+            "children": [
+                {
+                    "name": "equities",
+                    "children": [
+                        {
+                            "name": "Technology",
+                            "children": [
+                                {
+                                    "name": "Computer Hardware",
+                                    "children": [
+                                        {
+                                            "name": "DDD",
+                                            "value": 67700.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "HPQ",
+                                            "value": 41800.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 109500.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Software-Infrastructure",
+                                    "children": [
+                                        {
+                                            "name": "ALTR",
+                                            "value": 47500.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "MSFT",
+                                            "value": 46500.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 94000.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Scientific & Technical Instruments",
+                                    "children": [
+                                        {
+                                            "name": "TRMB",
+                                            "value": 44100.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "FARO",
+                                            "value": 12500.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 56600.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Oil & Gas Pipelines",
+                                    "children": [
+                                        {
+                                            "name": "DM",
+                                            "value": 43700.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 43700.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Software-Application",
+                                    "children": [
+                                        {
+                                            "name": "ADSK",
+                                            "value": 42700.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "PTC",
+                                            "value": 42100.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "ANSS",
+                                            "value": 41500.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 126300.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "COMPUTER PERIPHERAL EQUIPMENT, NEC",
+                                    "children": [
+                                        {
+                                            "name": "SSYS",
+                                            "value": 28200.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 28200.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "SERVICES-PREPACKAGED SOFTWARE",
+                                    "children": [
+                                        {
+                                            "name": "MTLS",
+                                            "value": 13600.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 13600.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Semiconductor Equipment & Materials",
+                                    "children": [
+                                        {
+                                            "name": "UCTT",
+                                            "value": 9300.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 9300.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "PRINTED CIRCUIT BOARDS",
+                                    "children": [
+                                        {
+                                            "name": "NNDM",
+                                            "value": 3100.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 3100.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 484300.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Industrials",
+                            "children": [
+                                {
+                                    "name": "Specialty Industrial Machinery",
+                                    "children": [
+                                        {
+                                            "name": "XONE",
+                                            "value": 57200.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "AME",
+                                            "value": 13600.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "ARNC",
+                                            "value": 12200.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "GE",
+                                            "value": 9000.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "MMM",
+                                            "value": 1200.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 93200.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Metal Fabrication",
+                                    "children": [
+                                        {
+                                            "name": "PRLB",
+                                            "value": 19800.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "ATI",
+                                            "value": 1300.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "CRS",
+                                            "value": 1200.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 22300.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Integrated Freight & Logistics",
+                                    "children": [
+                                        {
+                                            "name": "UPS",
+                                            "value": 10300.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 10300.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Tools & Accessories",
+                                    "children": [
+                                        {
+                                            "name": "LECO",
+                                            "value": 9400.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 9400.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Aerospace & Defense",
+                                    "children": [
+                                        {
+                                            "name": "AJRD",
+                                            "value": 9400.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "HXL",
+                                            "value": 1400.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 10800.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Specialty Business Services",
+                                    "children": [
+                                        {
+                                            "name": "KODK",
+                                            "value": 1600.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 1600.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "PHARMACEUTICAL PREPARATIONS",
+                                    "children": [
+                                        {
+                                            "name": "PYR",
+                                            "value": 1500.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 1500.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 149100.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "unknown",
+                            "children": [
+                                {
+                                    "name": "unknown",
+                                    "children": [
+                                        {
+                                            "name": "STMN",
+                                            "value": 55800.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "AM3D",
+                                            "value": 49400.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "DSY",
+                                            "value": 47300.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "ALMDG",
+                                            "value": 44000.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "RSW",
+                                            "value": 41000.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "HEXAB S",
+                                            "value": 13800.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "BDT",
+                                            "value": 11000.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "ML",
+                                            "value": 10000.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "MOG/A",
+                                            "value": 9300.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "MDT UN",
+                                            "value": 9300.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "SIE",
+                                            "value": 9100.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "OERL",
+                                            "value": 9000.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "SGL",
+                                            "value": 1400.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "3402",
+                                            "value": 1400.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "AKE",
+                                            "value": 1300.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "XRX UN",
+                                            "value": 1200.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "HEN3",
+                                            "value": 1200.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 315500.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "VOE",
+                                    "value": 1200.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 316700.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Healthcare",
+                            "children": [
+                                {
+                                    "name": "Medical Devices",
+                                    "children": [
+                                        {
+                                            "name": "ALGN",
+                                            "value": 13600.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "SYK",
+                                            "value": 9500.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "NUVA",
+                                            "value": 9100.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 32200.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 32200.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Basic Materials",
+                            "children": [
+                                {
+                                    "name": "Aluminum",
+                                    "children": [
+                                        {
+                                            "name": "KALU",
+                                            "value": 10400.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 10400.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Chemicals",
+                                    "children": [
+                                        {
+                                            "name": "DD",
+                                            "value": 1300.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "EMN",
+                                            "value": 1300.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 2600.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Gold",
+                                    "children": [
+                                        {
+                                            "name": "SAND",
+                                            "value": 1200.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 1200.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 14200.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Financial Services",
+                            "children": [
+                                {
+                                    "name": "unknown",
+                                    "children": [
+                                        {
+                                            "name": "DSM",
+                                            "value": 1300.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 1300.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 1300.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Consumer Cyclical",
+                            "children": [
+                                {
+                                    "name": "APPAREL & OTHER FINISHD PRODS OF FABRICS & SIMILAR MATL",
+                                    "children": [
+                                        {
+                                            "name": "EVK",
+                                            "value": 1200.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 1200.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 1200.0,
+                            "holdingtype": "indirect"
+                        }
+                    ],
+                    "value": 999000.0,
+                    "holdingtype": "indirect"
+                }
+            ],
+            "value": 999000.0,
+            "holdingtype": "indirect"
+        },
+        {
+            "name": "IZRL",
+            "children": [
+                {
+                    "name": "equities",
+                    "children": [
+                        {
+                            "name": "unknown",
+                            "children": [
+                                {
+                                    "name": "unknown",
+                                    "children": [
+                                        {
+                                            "name": "CEL",
+                                            "value": 23400.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "DANE",
+                                            "value": 19700.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "MLTM",
+                                            "value": 19300.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "BEZQ",
+                                            "value": 18700.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "PLSN",
+                                            "value": 18700.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "FTAL",
+                                            "value": 17600.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "URGN UQ",
+                                            "value": 16800.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "EMCO",
+                                            "value": 16700.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "BSEN",
+                                            "value": 16600.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "BIMCM",
+                                            "value": 16300.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "HLAN",
+                                            "value": 16200.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "BATM",
+                                            "value": 15100.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 215100.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Other",
+                                    "children": [
+                                        {
+                                            "name": "ECP",
+                                            "value": 20100.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "INCR",
+                                            "value": 15900.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 36000.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "ROBO",
+                                    "value": 16300.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 267400.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Technology",
+                            "children": [
+                                {
+                                    "name": "WHOLESALE-ELECTRONIC PARTS & EQUIPMENT, NEC",
+                                    "children": [
+                                        {
+                                            "name": "ITRN",
+                                            "value": 22700.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 22700.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "COMPUTER COMMUNICATIONS EQUIPMENT",
+                                    "children": [
+                                        {
+                                            "name": "ALLT",
+                                            "value": 20000.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "SILC",
+                                            "value": 18000.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 38000.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "OPTICAL INSTRUMENTS & LENSES",
+                                    "children": [
+                                        {
+                                            "name": "CAMT",
+                                            "value": 19500.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "NVMI",
+                                            "value": 18800.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 38300.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "SERVICES-BUSINESS SERVICES, NEC",
+                                    "children": [
+                                        {
+                                            "name": "RDWR",
+                                            "value": 19400.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 19400.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "TELEPHONE & TELEGRAPH APPARATUS",
+                                    "children": [
+                                        {
+                                            "name": "AUDC",
+                                            "value": 19100.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 19100.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "PRINTED CIRCUIT BOARDS",
+                                    "children": [
+                                        {
+                                            "name": "NNDM",
+                                            "value": 18900.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 18900.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
+                                    "children": [
+                                        {
+                                            "name": "CRNT",
+                                            "value": 18400.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "GILT",
+                                            "value": 18000.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 36400.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC",
+                                    "children": [
+                                        {
+                                            "name": "",
+                                            "children": [
+                                                {
+                                                    "name": "WIX",
+                                                    "value": 18100.0,
+                                                    "holdingtype": "indirect"
+                                                }
+                                            ],
+                                            "value": 18100.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 18100.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Software-Infrastructure",
+                                    "children": [
+                                        {
+                                            "name": "CHKP",
+                                            "value": 18000.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 18000.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "SERVICES-PREPACKAGED SOFTWARE",
+                                    "children": [
+                                        {
+                                            "name": "CYBR",
+                                            "value": 17600.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "MGIC",
+                                            "value": 16400.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 34000.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "SEMICONDUCTORS & RELATED DEVICES",
+                                    "children": [
+                                        {
+                                            "name": "SEDG",
+                                            "value": 17500.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "TSEM",
+                                            "value": 16500.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 34000.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Software-Application",
+                                    "children": [
+                                        {
+                                            "name": "NICE",
+                                            "value": 17100.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "FROG",
+                                            "value": 15600.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "SPNS",
+                                            "value": 14900.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 47600.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "COMPUTER PERIPHERAL EQUIPMENT, NEC",
+                                    "children": [
+                                        {
+                                            "name": "SSYS",
+                                            "value": 10200.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 10200.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 354700.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Healthcare",
+                            "children": [
+                                {
+                                    "name": "SURGICAL & MEDICAL INSTRUMENTS & APPARATUS",
+                                    "children": [
+                                        {
+                                            "name": "DRIO",
+                                            "value": 20800.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "PYPD",
+                                            "value": 17600.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "ITMR",
+                                            "value": 15900.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 54300.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "ELECTROMEDICAL & ELECTROTHERAPEUTIC APPARATUS",
+                                    "children": [
+                                        {
+                                            "name": "INMD",
+                                            "value": 20000.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 20000.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "PHARMACEUTICAL PREPARATIONS",
+                                    "children": [
+                                        {
+                                            "name": "TARO",
+                                            "value": 18100.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "RDHL",
+                                            "value": 17400.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "KMDA",
+                                            "value": 16600.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "ENLV",
+                                            "value": 15300.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 67400.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Drug Manufacturers-Specialty & Generic",
+                                    "children": [
+                                        {
+                                            "name": "TEVA",
+                                            "value": 16900.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 16900.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "X-RAY APPARATUS & TUBES & RELATED IRRADIATION APPARATUS",
+                                    "children": [
+                                        {
+                                            "name": "NNOX",
+                                            "value": 14900.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 14900.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "BIOLOGICAL PRODUCTS, (NO DISGNOSTIC SUBSTANCES)",
+                                    "children": [
+                                        {
+                                            "name": "GMDA",
+                                            "value": 13700.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 13700.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "Biotechnology",
+                                    "children": [
+                                        {
+                                            "name": "CGEN",
+                                            "value": 9900.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "EVGN",
+                                            "value": 9900.0,
+                                            "holdingtype": "indirect"
+                                        },
+                                        {
+                                            "name": "PSTI",
+                                            "value": 8300.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 28100.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 215300.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Industrials",
+                            "children": [
+                                {
+                                    "name": "PRINTING TRADES MACHINERY & EQUIPMENT",
+                                    "children": [
+                                        {
+                                            "name": "KRNT",
+                                            "value": 19400.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 19400.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "WHOLESALE-ELECTRONIC PARTS & EQUIPMENT, NEC",
+                                    "children": [
+                                        {
+                                            "name": "RADA",
+                                            "value": 17400.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 17400.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "AIRCRAFT PARTS & AUXILIARY EQUIPMENT, NEC",
+                                    "children": [
+                                        {
+                                            "name": "ESLT",
+                                            "value": 16200.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 16200.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 53000.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Communication Services",
+                            "children": [
+                                {
+                                    "name": "RADIOTELEPHONE COMMUNICATIONS",
+                                    "children": [
+                                        {
+                                            "name": "PTNR",
+                                            "value": 19200.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 19200.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "SERVICES-COMPUTER PROGRAMMING SERVICES",
+                                    "children": [
+                                        {
+                                            "name": "PERI",
+                                            "value": 17000.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 17000.0,
+                                    "holdingtype": "indirect"
+                                },
+                                {
+                                    "name": "SERVICES-BUSINESS SERVICES, NEC",
+                                    "children": [
+                                        {
+                                            "name": "FVRR",
+                                            "value": 16900.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 16900.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 53100.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Consumer Defensive",
+                            "children": [
+                                {
+                                    "name": "SERVICES-EDUCATIONAL SERVICES",
+                                    "children": [
+                                        {
+                                            "name": "ONE",
+                                            "value": 18300.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 18300.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 18300.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Consumer Cyclical",
+                            "children": [
+                                {
+                                    "name": "GLASS CONTAINERS",
+                                    "children": [
+                                        {
+                                            "name": "ARD",
+                                            "value": 17500.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 17500.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 17500.0,
+                            "holdingtype": "indirect"
+                        },
+                        {
+                            "name": "Energy",
+                            "children": [
+                                {
+                                    "name": "Oil & Gas Equipment & Services",
+                                    "children": [
+                                        {
+                                            "name": "MTRX",
+                                            "value": 16600.0,
+                                            "holdingtype": "indirect"
+                                        }
+                                    ],
+                                    "value": 16600.0,
+                                    "holdingtype": "indirect"
+                                }
+                            ],
+                            "value": 16600.0,
+                            "holdingtype": "indirect"
+                        }
+                    ],
+                    "value": 995900.0,
+                    "holdingtype": "indirect"
+                }
+            ],
+            "value": 995900.0,
+            "holdingtype": "indirect"
+        }
+    ],
+    "value": 7981000.0,
+    "holdingtype": "indirect"
+}
