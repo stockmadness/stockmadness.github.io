@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <title>Equity Map</title>
+    <link rel="stylesheet" type="text/css" href="./inspector.css">
+    <style>
+    .observablehq--inspect { visibility: hidden; }
+
+
+   .container {
+      position: relative;
+      width: 100%;
+   }
+
+   .bg {
+      position:relative;
+      z-index: 1;
+      height: 100%;
+      min-width: 1000px;
+      max-width: 1500px;
+      margin: 0 auto;
+   }
+
+   .assetmap {
+      width: 100%;
+   }
+
+   @media screen and (max-width: 1000px) {
+      .assetmap {
+         width: 100%;
+         overflow: hidden;
+         margin: 0 -150px 0 -150px;
+      }
+   }
+
+    .center {
+    text-align: center;
+    }
+    /* #wrapper {
+        margin: auto;
+        width: 50%;
+    }
+    #chart {
+        width: 100%;
+        height: 0;
+        padding-bottom: 50%;
+      } */
+    </style>
+</head>
+<body>
+<script type="module">
+
+import define from "./index.js";
+import {Runtime, Library, Inspector} from "./runtime.js";
+
+const runtime = new Runtime();
+const main = runtime.module(define, Inspector.into(document.querySelector('#chart')));
+
+</script>
+<div class='container'>
+    <div class='bg'>
+        <div id='chart' class="assetmap"></div>
+    </div>
+
+</div>
