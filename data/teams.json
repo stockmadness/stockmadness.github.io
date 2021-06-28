@@ -1,4 +1,5 @@
 {
+    "tournament": 0,
     "teams": {
         "CAT": {
             "name": "CAT",
@@ -6,27 +7,27 @@
             "seed": 1,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 231.300003,
                     "close": 232.740005
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 225.52,
                     "close": 228.11
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 230.0,
                     "close": 228.17
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 241.91,
                     "close": 241.08
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 244.01,
                     "close": 242.76
                 }
@@ -41,17 +42,17 @@
                     "score": 0.0481739130434784
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.10245481742551532,
-            "sharesOutstanding": "545304000",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 547787008,
+            "dividendPerShare": 4.12,
+            "eps": 6.254,
+            "revenuePerShare": 79.044,
             "high52wk": 246.64,
-            "low52wk": 118.010002,
+            "low52wk": 123.279999,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.11351993770747093
         },
         "BA": {
             "name": "BA",
@@ -59,27 +60,27 @@
             "seed": 2,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 256.670013,
                     "close": 252.960007
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 233.68,
                     "close": 234.31
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 234.11,
                     "close": 235.19
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 247.48,
                     "close": 247.02
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 253.0,
                     "close": 254.73
                 }
@@ -94,17 +95,17 @@
                     "score": 0.055145017299560006
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.031067193675889393,
-            "sharesOutstanding": "583640000",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 584809984,
+            "dividendPerShare": 0.0,
+            "eps": -20.5355,
+            "revenuePerShare": 98.396,
             "high52wk": 278.570007,
             "low52wk": 141.580002,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.01826086956521744
         },
         "TRV": {
             "name": "TRV",
@@ -112,27 +113,27 @@
             "seed": 3,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 150.25,
                     "close": 150.619995
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 155.529999,
                     "close": 154.660004
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 156.110001,
                     "close": 156.589996
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 160.399994,
                     "close": 159.699997
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 161.119995,
                     "close": 160.889999
                 }
@@ -147,17 +148,17 @@
                     "score": 0.02299657918777398
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.048845551416507815,
-            "sharesOutstanding": "252214000",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 251464992,
+            "dividendPerShare": 3.4,
+            "eps": 11.062,
+            "revenuePerShare": 128.046,
             "high52wk": 162.710007,
             "low52wk": 105.669998,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.058341579516558384
         },
         "HON": {
             "name": "HON",
@@ -165,27 +166,27 @@
             "seed": 4,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 217.960007,
                     "close": 216.800003
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 223.020004,
                     "close": 223.039993
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 224.240005,
                     "close": 223.199997
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 232.0,
                     "close": 230.91
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 232.89,
                     "close": 232.95
                 }
@@ -200,17 +201,17 @@
                     "score": 0.029744893200479572
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.041736442097127346,
-            "sharesOutstanding": "701686016",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 694556032,
+            "dividendPerShare": 3.66,
+            "eps": 6.532,
+            "revenuePerShare": 46.562,
             "high52wk": 234.02,
-            "low52wk": 137.529999,
+            "low52wk": 139.279999,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.060758297908883874
         },
         "CRM": {
             "name": "CRM",
@@ -218,27 +219,27 @@
             "seed": 5,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 213.600006,
                     "close": 218.720001
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 232.8,
                     "close": 230.32
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 230.77,
                     "close": 223.76
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 239.22,
                     "close": 238.1
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 238.0,
                     "close": 236.2
                 }
@@ -253,17 +254,17 @@
                     "score": 0.031763227455908316
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": 0.03470588235294114,
-            "sharesOutstanding": "921000000",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 926000000,
+            "dividendPerShare": null,
+            "eps": 4.743,
+            "revenuePerShare": 24.446,
             "high52wk": 284.5,
-            "low52wk": 171.27,
+            "low52wk": 180.0,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": 0.016260504201680792
         },
         "PG": {
             "name": "PG",
@@ -271,27 +272,27 @@
             "seed": 6,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 135.050003,
                     "close": 134.279999
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 132.75,
                     "close": 133.42
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 134.03,
                     "close": 135.0
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 135.15,
                     "close": 134.85
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 135.79,
                     "close": 132.88
                 }
@@ -306,17 +307,17 @@
                     "score": 0.00611803327613214
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.006480595036453263,
-            "sharesOutstanding": "2462479872",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 2448229888,
+            "dividendPerShare": 3.163,
+            "eps": 5.439,
+            "revenuePerShare": 30.244,
             "high52wk": 146.919998,
-            "low52wk": 113.760002,
+            "low52wk": 116.349998,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.006406951911039127
         },
         "NKE": {
             "name": "NKE",
@@ -324,27 +325,27 @@
             "seed": 7,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 134.690002,
                     "close": 132.529999
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 132.44,
                     "close": 132.62
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 133.37,
                     "close": 133.03
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 136.24,
                     "close": 136.46
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 137.85,
                     "close": 134.51
                 }
@@ -359,17 +360,17 @@
                     "score": 0.02316862862712754
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.04708015959376122,
-            "sharesOutstanding": "1271480064",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
-            "high52wk": 147.949997,
-            "low52wk": 93.440002,
+            "sharesOutstanding": 1274960000,
+            "dividendPerShare": 1.04,
+            "eps": 2.139,
+            "revenuePerShare": 24.572,
+            "high52wk": 154.59,
+            "low52wk": 93.699997,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": 0.11969532100108804
         },
         "FCX": {
             "name": "FCX",
@@ -377,27 +378,27 @@
             "seed": 8,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 33.34,
                     "close": 33.759998
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 38.0,
                     "close": 37.71
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 38.41,
                     "close": 38.71
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 42.57,
                     "close": 42.72
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 43.57,
                     "close": 44.21
                 }
@@ -412,17 +413,17 @@
                     "score": 0.11221036188492595
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.09387193022722062,
-            "sharesOutstanding": "1460000000",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 1465529984,
+            "dividendPerShare": 0.075,
+            "eps": 1.228,
+            "revenuePerShare": 11.165,
             "high52wk": 46.1,
-            "low52wk": 9.78,
+            "low52wk": 10.75,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.1452834519164562
         },
         "MLM": {
             "name": "MLM",
@@ -430,27 +431,27 @@
             "seed": 9,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 334.200012,
                     "close": 333.880005
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 357.64,
                     "close": 353.12
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 356.75,
                     "close": 354.56
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 370.46,
                     "close": 363.65
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 367.93,
                     "close": 363.69
                 }
@@ -465,17 +466,17 @@
                     "score": 0.01934127540294317
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.0560432691001006,
-            "sharesOutstanding": "62274200",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 62368900,
+            "dividendPerShare": 2.26,
+            "eps": 12.171,
+            "revenuePerShare": 71.637,
             "high52wk": 383.71,
-            "low52wk": 188.320007,
+            "low52wk": 201.039993,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.02353708585872316
         },
         "POOL": {
             "name": "POOL",
@@ -483,27 +484,27 @@
             "seed": 10,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 345.73999,
                     "close": 351.570007
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 421.0,
                     "close": 422.52
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 425.0,
                     "close": 428.86
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 430.36,
                     "close": 436.55
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 440.46,
                     "close": 438.73
                 }
@@ -518,17 +519,17 @@
                     "score": 0.027176470588235357
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.02156836035054266,
-            "sharesOutstanding": "40229400",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
-            "high52wk": 449.44,
-            "low52wk": 244.910004,
+            "sharesOutstanding": 40131400,
+            "dividendPerShare": 2.32,
+            "eps": 10.644,
+            "revenuePerShare": 107.656,
+            "high52wk": 464.03,
+            "low52wk": 259.309998,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": 0.03475911547019028
         },
         "CLX": {
             "name": "CLX",
@@ -536,27 +537,27 @@
             "seed": 11,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 192.490005,
                     "close": 192.830002
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 179.26,
                     "close": 182.5
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 177.0,
                     "close": 180.63
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 175.8,
                     "close": 176.73
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 177.5,
                     "close": 176.66
                 }
@@ -571,17 +572,17 @@
                     "score": -0.0015254237288135908
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.018422535211267688,
-            "sharesOutstanding": "125791000",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 124372000,
+            "dividendPerShare": 4.44,
+            "eps": 7.197,
+            "revenuePerShare": 59.632,
             "high52wk": 239.869995,
-            "low52wk": 173.16,
+            "low52wk": 170.5,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.004788732394366169
         },
         "ADSK": {
             "name": "ADSK",
@@ -589,27 +590,27 @@
             "seed": 12,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 277.839996,
                     "close": 283.899994
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 294.55,
                     "close": 291.91
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 292.99,
                     "close": 287.5
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 287.0,
                     "close": 285.86
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 287.0,
                     "close": 281.3
                 }
@@ -624,17 +625,17 @@
                     "score": -0.02433530154612784
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.02257839721254362,
-            "sharesOutstanding": "219592000",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 220012992,
+            "dividendPerShare": null,
+            "eps": 5.836,
+            "revenuePerShare": 17.74,
             "high52wk": 321.130005,
             "low52wk": 215.830002,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": 0.0060627177700349755
         },
         "LMT": {
             "name": "LMT",
@@ -642,27 +643,27 @@
             "seed": 13,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 368.98999,
                     "close": 371.019989
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 378.86,
                     "close": 380.56
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 379.77,
                     "close": 385.31
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 384.7,
                     "close": 382.2
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 384.23,
                     "close": 381.92
                 }
@@ -677,17 +678,17 @@
                     "score": 0.006398609684809209
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": 0.012700726127579776,
-            "sharesOutstanding": "278712000",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 277934016,
+            "dividendPerShare": 10.0,
+            "eps": 24.783,
+            "revenuePerShare": 236.217,
             "high52wk": 402.380005,
             "low52wk": 319.809998,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.005777789344923678
         },
         "ALL": {
             "name": "ALL",
@@ -695,27 +696,27 @@
             "seed": 14,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 114.589996,
                     "close": 116.029999
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 128.0,
                     "close": 126.800003
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 127.540001,
                     "close": 128.130005
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 137.169998,
                     "close": 136.610001
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 137.580002,
                     "close": 138.020004
                 }
@@ -730,17 +731,17 @@
                     "score": 0.07111494377360095
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.047972102806046024,
-            "sharesOutstanding": "302872992",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 299339008,
+            "dividendPerShare": 2.43,
+            "eps": 11.366,
+            "revenuePerShare": 153.881,
             "high52wk": 140.0,
             "low52wk": 84.970001,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.049425802450562606
         },
         "GE": {
             "name": "GE",
@@ -748,27 +749,27 @@
             "seed": 15,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 13.23,
                     "close": 13.28
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 13.16,
                     "close": 13.12
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 13.24,
                     "close": 13.45
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 14.29,
                     "close": 14.06
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 14.23,
                     "close": 14.15
                 }
@@ -783,17 +784,17 @@
                     "score": 0.0619335347432024
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.05340829234012645,
-            "sharesOutstanding": "8767939584",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 8778640384,
+            "dividendPerShare": 0.04,
+            "eps": -0.452,
+            "revenuePerShare": 8.818,
             "high52wk": 14.42,
             "low52wk": 5.93,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.07519325368938867
         },
         "DE": {
             "name": "DE",
@@ -801,27 +802,27 @@
             "seed": 16,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 375.630005,
                     "close": 372.119995
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 372.55,
                     "close": 370.85
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 376.5,
                     "close": 373.77
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 362.6,
                     "close": 361.1
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 364.41,
                     "close": 364.61
                 }
@@ -836,17 +837,17 @@
                     "score": -0.0409030544488711
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.07922395104415358,
-            "sharesOutstanding": "313439008",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 311942016,
+            "dividendPerShare": 3.18,
+            "eps": 14.504,
+            "revenuePerShare": 126.994,
             "high52wk": 400.34,
-            "low52wk": 148.119995,
+            "low52wk": 150.320007,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.0395708130951401
         },
         "WBA": {
             "name": "WBA",
@@ -854,27 +855,27 @@
             "seed": 1,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 54.57,
                     "close": 54.75
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 52.47,
                     "close": 53.1
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 53.44,
                     "close": 54.3
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 53.31,
                     "close": 52.66
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 52.99,
                     "close": 52.84
                 }
@@ -889,17 +890,17 @@
                     "score": -0.0145958083832336
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": 0.027174938667673176,
-            "sharesOutstanding": "864041984",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 864393984,
+            "dividendPerShare": 1.86,
+            "eps": 0.519,
+            "revenuePerShare": 164.216,
             "high52wk": 57.049999,
             "low52wk": 33.360001,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.015663332704283883
         },
         "JPM": {
             "name": "JPM",
@@ -907,27 +908,27 @@
             "seed": 2,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 151.899994,
                     "close": 153.710007
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 154.1,
                     "close": 153.81
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 154.85,
                     "close": 153.36
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 164.68,
                     "close": 164.24
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 165.87,
                     "close": 166.05
                 }
@@ -942,17 +943,17 @@
                     "score": 0.06063932838230546
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.050039187315367495,
-            "sharesOutstanding": "3051510016",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 3027130112,
+            "dividendPerShare": 3.6,
+            "eps": 12.607,
+            "revenuePerShare": 38.509,
             "high52wk": 167.44,
             "low52wk": 90.779999,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.07126062579128234
         },
         "HD": {
             "name": "HD",
@@ -960,27 +961,27 @@
             "seed": 3,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 306.880005,
                     "close": 307.75
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 325.049988,
                     "close": 323.670013
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 326.279999,
                     "close": 330.269989
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 320.369995,
                     "close": 318.910004
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 320.660004,
                     "close": 316.309998
                 }
@@ -995,17 +996,17 @@
                     "score": -0.022587946005234505
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.03536457262689996,
-            "sharesOutstanding": "1076600064",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 1063260032,
+            "dividendPerShare": 6.3,
+            "eps": 13.718,
+            "revenuePerShare": 131.672,
             "high52wk": 345.690002,
-            "low52wk": 234.309998,
+            "low52wk": 240.339996,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.021923544914569493
         },
         "AMGN": {
             "name": "AMGN",
@@ -1013,27 +1014,27 @@
             "seed": 4,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 249.729996,
                     "close": 249.169998
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 234.27,
                     "close": 239.64
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 240.67,
                     "close": 245.38
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 236.21,
                     "close": 237.94
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 242.2,
                     "close": 233.58
                 }
@@ -1048,17 +1049,17 @@
                     "score": -0.011343333194831051
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.004170107349298013,
-            "sharesOutstanding": "577566016",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 574553984,
+            "dividendPerShare": 6.56,
+            "eps": 12.073,
+            "revenuePerShare": 43.181,
             "high52wk": 276.690002,
             "low52wk": 210.279999,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": 0.0019818331957059954
         },
         "UNH": {
             "name": "UNH",
@@ -1066,52 +1067,52 @@
             "seed": 5,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 372.200012,
                     "close": 367.070007
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 401.0,
-                    "close": 398.8
+                    "close": 398.799988
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 401.0,
-                    "close": 405.9
+                    "close": 405.899994
                 },
                 {
-                    "date": "2021-05-28",
-                    "open": 412.7,
-                    "close": 411.92
+                    "date": "2021-05-28T00:00:00",
+                    "open": 412.700012,
+                    "close": 411.920013
                 },
                 {
-                    "date": "2021-06-01",
-                    "open": 413.73,
-                    "close": 406.72
+                    "date": "2021-06-01T00:00:00",
+                    "open": 413.730011,
+                    "close": 406.720001
                 }
             ],
             "scores": [
                 {
                     "number": 0,
-                    "score": 0.07146691870606392
+                    "score": 0.07146688646533406
                 },
                 {
                     "number": 1,
-                    "score": 0.02723192019950127
+                    "score": 0.027231952618453903
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.03521620380441348,
-            "sharesOutstanding": "948820992",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
-            "high52wk": 425.98,
-            "low52wk": 273.709991,
+            "sharesOutstanding": 943702016,
+            "dividendPerShare": 5.0,
+            "eps": 17.588,
+            "revenuePerShare": 277.338,
+            "high52wk": 425.980011,
+            "low52wk": 286.619995,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.0212215956458619
         },
         "JNJ": {
             "name": "JNJ",
@@ -1119,27 +1120,27 @@
             "seed": 6,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 162.600006,
                     "close": 162.830002
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 164.15,
                     "close": 162.73
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 163.6,
                     "close": 165.21
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 169.52,
                     "close": 169.25
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 170.15,
                     "close": 165.53
                 }
@@ -1154,17 +1155,17 @@
                     "score": 0.03453545232273836
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.028092859241845458,
-            "sharesOutstanding": "2632709888",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 2633400064,
+            "dividendPerShare": 4.04,
+            "eps": 5.661,
+            "revenuePerShare": 31.993,
             "high52wk": 173.649994,
             "low52wk": 133.649994,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.034910373200117584
         },
         "MRK": {
             "name": "MRK",
@@ -1172,28 +1173,28 @@
             "seed": 7,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 73.625954,
                     "close": 73.559158
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 70.209923,
                     "close": 71.087784
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 70.85878,
                     "close": 72.5
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 72.53817,
                     "close": 72.414124
                 },
                 {
-                    "date": "2021-06-01",
-                    "open": 72.57634,
+                    "date": "2021-06-01T00:00:00",
+                    "open": 72.576332,
                     "close": 71.736641
                 }
             ],
@@ -1207,17 +1208,17 @@
                     "score": 0.021949912205657673
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": 0.0395949974881622,
-            "sharesOutstanding": "2530319872",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 2532059904,
+            "dividendPerShare": 2.48,
+            "eps": 2.769,
+            "revenuePerShare": 18.983,
             "high52wk": 83.778625,
             "low52wk": 68.435112,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": 0.06370765609923645
         },
         "WMT": {
             "name": "WMT",
@@ -1225,27 +1226,27 @@
             "seed": 8,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 135.940002,
                     "close": 135.619995
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 139.71,
                     "close": 139.91
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 139.68,
                     "close": 142.12
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 141.93,
                     "close": 142.03
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 142.21,
                     "close": 141.66
                 }
@@ -1260,17 +1261,17 @@
                     "score": 0.016824169530355038
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.011602559594965256,
-            "sharesOutstanding": "2817070080",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 2802149888,
+            "dividendPerShare": 2.17,
+            "eps": 4.32,
+            "revenuePerShare": 199.094,
             "high52wk": 153.660004,
-            "low52wk": 117.010002,
+            "low52wk": 118.220001,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.025877223823922435
         },
         "COST": {
             "name": "COST",
@@ -1278,27 +1279,27 @@
             "seed": 9,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 352.540009,
                     "close": 354.940002
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 372.91,
                     "close": 372.09
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 373.84,
                     "close": 379.32
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 384.15,
                     "close": 378.27
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 379.93,
                     "close": 378.23
                 }
@@ -1313,17 +1314,17 @@
                     "score": 0.011849989300235508
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": 0.010080804358697515,
-            "sharesOutstanding": "442534016",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
-            "high52wk": 393.149994,
-            "low52wk": 293.839996,
+            "sharesOutstanding": 442068992,
+            "dividendPerShare": 2.89,
+            "eps": 10.639,
+            "revenuePerShare": 421.266,
+            "high52wk": 395.5,
+            "low52wk": 296.829987,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": 0.03837549022188291
         },
         "PFE": {
             "name": "PFE",
@@ -1331,27 +1332,27 @@
             "seed": 10,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 36.299999,
                     "close": 36.299999
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 38.5,
                     "close": 38.65
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 39.04,
                     "close": 39.83
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 38.75,
                     "close": 38.73
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 38.94,
                     "close": 38.5
                 }
@@ -1366,17 +1367,17 @@
                     "score": -0.007940573770491843
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": 0.01771956856702639,
-            "sharesOutstanding": "5578160128",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 5597689856,
+            "dividendPerShare": 1.53,
+            "eps": 1.974,
+            "revenuePerShare": 8.339,
             "high52wk": 43.080002,
-            "low52wk": 29.990513,
+            "low52wk": 30.550285,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": 0.0010272213662043672
         },
         "BSX": {
             "name": "BSX",
@@ -1384,27 +1385,27 @@
             "seed": 11,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 38.610001,
                     "close": 38.580002
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 43.84,
                     "close": 43.6
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 43.6,
                     "close": 43.63
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 42.36,
                     "close": 42.55
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 42.82,
                     "close": 42.93
                 }
@@ -1419,17 +1420,17 @@
                     "score": -0.0240825688073395
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.006539000467071454,
-            "sharesOutstanding": "1416220032",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 1420909952,
+            "dividendPerShare": null,
+            "eps": 0.141,
+            "revenuePerShare": 7.118,
             "high52wk": 44.63,
             "low52wk": 32.990002,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": 0.029892573563755187
         },
         "HUM": {
             "name": "HUM",
@@ -1437,27 +1438,27 @@
             "seed": 12,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 418.679993,
                     "close": 412.820007
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 448.2,
                     "close": 445.24
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 447.56,
                     "close": 450.6
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 440.5,
                     "close": 437.7
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 437.85,
                     "close": 431.25
                 }
@@ -1472,17 +1473,17 @@
                     "score": -0.022030565734203256
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.05191275550987784,
-            "sharesOutstanding": "129011000",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 129014000,
+            "dividendPerShare": 2.575,
+            "eps": 28.152,
+            "revenuePerShare": 600.374,
             "high52wk": 475.44,
-            "low52wk": 365.059998,
+            "low52wk": 370.220001,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": 0.008815804499257673
         },
         "DXCM": {
             "name": "DXCM",
@@ -1490,27 +1491,27 @@
             "seed": 13,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 362.410004,
                     "close": 365.5
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 400.0,
                     "close": 386.1
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 386.1,
                     "close": 380.57
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 375.0,
                     "close": 369.39
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 371.2,
                     "close": 365.67
                 }
@@ -1525,17 +1526,17 @@
                     "score": -0.04327894327894333
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": 0.10207435344827576,
-            "sharesOutstanding": "96177400",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 96705904,
+            "dividendPerShare": null,
+            "eps": 5.205,
+            "revenuePerShare": 21.215,
             "high52wk": 456.23,
             "low52wk": 305.630005,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": 0.15937500000000004
         },
         "LOW": {
             "name": "LOW",
@@ -1543,27 +1544,27 @@
             "seed": 14,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 191.199997,
                     "close": 191.320007
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 197.8,
                     "close": 196.25
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 198.75,
                     "close": 199.2
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 197.0,
                     "close": 194.83
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 195.0,
                     "close": 191.85
                 }
@@ -1578,17 +1579,17 @@
                     "score": -0.01972327044025146
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.02738461538461545,
-            "sharesOutstanding": "731000000",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 706889984,
+            "dividendPerShare": 2.35,
+            "eps": 9.168,
+            "revenuePerShare": 127.708,
             "high52wk": 215.22,
-            "low52wk": 123.089996,
+            "low52wk": 129.309998,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.01200000000000001
         },
         "BAC": {
             "name": "BAC",
@@ -1596,27 +1597,27 @@
             "seed": 15,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 38.830002,
                     "close": 39.490002
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 40.84,
                     "close": 40.529999
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 40.869999,
                     "close": 40.560001
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 42.66,
                     "close": 42.389999
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 42.950001,
                     "close": 42.919998
                 }
@@ -1631,17 +1632,17 @@
                     "score": 0.037191094621754184
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.037019812874975244,
-            "sharesOutstanding": "8627250176",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 8569319936,
+            "dividendPerShare": 0.72,
+            "eps": 2.33,
+            "revenuePerShare": 9.271,
             "high52wk": 43.490002,
             "low52wk": 22.389999,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.03096626237564004
         },
         "CVS": {
             "name": "CVS",
@@ -1649,27 +1650,27 @@
             "seed": 16,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 75.230003,
                     "close": 74.300003
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 76.44,
                     "close": 76.4
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 77.0,
                     "close": 77.69
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 86.68,
                     "close": 86.44
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 86.5,
                     "close": 85.87
                 }
@@ -1684,17 +1685,17 @@
                     "score": 0.1225974025974026
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.021734104046242764,
-            "sharesOutstanding": "1308909952",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 1316569984,
+            "dividendPerShare": 2.0,
+            "eps": 5.615,
+            "revenuePerShare": 206.077,
             "high52wk": 90.6,
             "low52wk": 55.360001,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.027976878612716805
         },
         "INTC": {
             "name": "INTC",
@@ -1702,27 +1703,27 @@
             "seed": 1,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 64.720001,
                     "close": 64.550003
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 57.61,
                     "close": 57.53
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 57.86,
                     "close": 57.26
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 57.55,
                     "close": 57.12
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 57.61,
                     "close": 56.89
                 }
@@ -1737,17 +1738,17 @@
                     "score": -0.012789491876944337
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": 0.0100676965804547,
-            "sharesOutstanding": "4097999872",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 4038000128,
+            "dividendPerShare": 1.337,
+            "eps": 4.456,
+            "revenuePerShare": 18.742,
             "high52wk": 68.489998,
             "low52wk": 43.610001,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.029508765839264095
         },
         "GS": {
             "name": "GS",
@@ -1755,27 +1756,27 @@
             "seed": 2,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 324.299988,
                     "close": 327.640015
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 351.12,
                     "close": 348.45
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 350.34,
                     "close": 350.16
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 372.0,
                     "close": 372.02
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 377.7,
                     "close": 382.44
                 }
@@ -1790,17 +1791,17 @@
                     "score": 0.06188274247873493
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.012655546730209077,
-            "sharesOutstanding": "340216000",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 339761984,
+            "dividendPerShare": 5.0,
+            "eps": 40.258,
+            "revenuePerShare": 144.446,
             "high52wk": 393.26,
             "low52wk": 185.520004,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.023643102991792397
         },
         "CSCO": {
             "name": "CSCO",
@@ -1808,27 +1809,27 @@
             "seed": 3,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 51.75,
                     "close": 51.98
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 51.22,
                     "close": 50.91
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 51.21,
                     "close": 51.17
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 53.18,
                     "close": 52.9
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 52.96,
                     "close": 52.62
                 }
@@ -1843,17 +1844,17 @@
                     "score": 0.033001366920523356
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": 0.022847432024169168,
-            "sharesOutstanding": "4221789952",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 4214200064,
+            "dividendPerShare": 1.45,
+            "eps": 2.419,
+            "revenuePerShare": 11.562,
             "high52wk": 55.35,
             "low52wk": 35.279999,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": 0.001888217522658664
         },
         "MSFT": {
             "name": "MSFT",
@@ -1861,27 +1862,27 @@
             "seed": 4,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 238.470001,
                     "close": 242.350006
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 249.74,
                     "close": 252.18
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 253.4,
                     "close": 251.86
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 251.0,
                     "close": 249.68
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 251.23,
                     "close": 247.4
                 }
@@ -1896,17 +1897,17 @@
                     "score": -0.01468034727703238
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": 0.03447040560442627,
-            "sharesOutstanding": "7560500224",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
-            "high52wk": 263.18,
-            "low52wk": 184.009995,
+            "sharesOutstanding": 7531570176,
+            "dividendPerShare": 2.19,
+            "eps": 7.338,
+            "revenuePerShare": 21.156,
+            "high52wk": 267.85,
+            "low52wk": 193.550003,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": 0.05488994148787962
         },
         "IBM": {
             "name": "IBM",
@@ -1914,27 +1915,27 @@
             "seed": 5,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 133.759995,
                     "close": 133.229996
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 143.7,
                     "close": 141.88
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 143.81,
                     "close": 144.75
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 144.21,
                     "close": 143.74
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 145.0,
                     "close": 144.19
                 }
@@ -1949,17 +1950,17 @@
                     "score": -0.00048675335512127216
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": 0.03468965517241385,
-            "sharesOutstanding": "893593984",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 893523008,
+            "dividendPerShare": 6.52,
+            "eps": 5.978,
+            "revenuePerShare": 82.734,
             "high52wk": 152.84,
             "low52wk": 105.919998,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": 0.012689655172413827
         },
         "DIS": {
             "name": "DIS",
@@ -1967,27 +1968,27 @@
             "seed": 6,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 186.429993,
                     "close": 188.970001
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 184.29,
                     "close": 186.02
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 187.69,
                     "close": 185.51
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 179.51,
                     "close": 178.65
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 180.18,
                     "close": 178.84
                 }
@@ -2002,17 +2003,17 @@
                     "score": -0.048164526613032055
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.011100011100011131,
-            "sharesOutstanding": "1815260032",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 1816930048,
+            "dividendPerShare": 0.88,
+            "eps": -2.4998,
+            "revenuePerShare": 32.201,
             "high52wk": 203.020004,
-            "low52wk": 108.019997,
+            "low52wk": 108.099998,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.010156510156510201
         },
         "VZ": {
             "name": "VZ",
@@ -2020,27 +2021,27 @@
             "seed": 7,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 58.02,
                     "close": 58.299999
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 57.349998,
                     "close": 57.790001
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 58.23,
                     "close": 57.919998
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 56.35,
                     "close": 56.49
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 56.75,
                     "close": 56.38
                 }
@@ -2055,17 +2056,17 @@
                     "score": -0.029881504379185908
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": 0.007577092511013239,
-            "sharesOutstanding": "4138149888",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 4140069888,
+            "dividendPerShare": 2.498,
+            "eps": 4.562,
+            "revenuePerShare": 31.288,
             "high52wk": 61.950001,
-            "low52wk": 52.849998,
+            "low52wk": 53.310001,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.006696035242290788
         },
         "AAPL": {
             "name": "AAPL",
@@ -2073,27 +2074,27 @@
             "seed": 8,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 123.660004,
                     "close": 123.0
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 131.78,
                     "close": 131.46
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 132.04,
                     "close": 132.54
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 125.57,
                     "close": 124.61
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 125.08,
                     "close": 124.28
                 }
@@ -2108,17 +2109,17 @@
                     "score": -0.0562708270221145
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": 0.043172369683402545,
-            "sharesOutstanding": "16788100096",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 16687599616,
+            "dividendPerShare": 0.82,
+            "eps": 4.449,
+            "revenuePerShare": 19.143,
             "high52wk": 145.089996,
-            "low52wk": 83.144997,
+            "low52wk": 87.82,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": 0.06419891269587485
         },
         "QCOM": {
             "name": "QCOM",
@@ -2126,27 +2127,27 @@
             "seed": 9,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 134.5,
                     "close": 137.789993
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 141.070007,
                     "close": 138.800003
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 139.699997,
                     "close": 137.429993
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 134.149994,
                     "close": 134.539993
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 135.100006,
                     "close": 133.940002
                 }
@@ -2161,17 +2162,17 @@
                     "score": -0.036936321480379064
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": 0.01635820800777754,
-            "sharesOutstanding": "1136000000",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 1128000000,
+            "dividendPerShare": 2.6,
+            "eps": 6.983,
+            "revenuePerShare": 26.003,
             "high52wk": 167.940002,
-            "low52wk": 83.099998,
+            "low52wk": 86.68,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": 0.018874862226134992
         },
         "TMUS": {
             "name": "TMUS",
@@ -2179,27 +2180,27 @@
             "seed": 10,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 125.860001,
                     "close": 127.650002
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 133.05,
                     "close": 132.13
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 132.58,
                     "close": 131.45
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 141.81,
                     "close": 141.45
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 141.66,
                     "close": 141.7
                 }
@@ -2214,17 +2215,17 @@
                     "score": 0.0669030019610799
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": 0.02541296060991094,
-            "sharesOutstanding": "1242800000",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 1246860032,
+            "dividendPerShare": null,
+            "eps": 2.422,
+            "revenuePerShare": 62.104,
             "high52wk": 148.68,
-            "low52wk": 100.11,
+            "low52wk": 103.43,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": 0.025977693067909202
         },
         "VIAC": {
             "name": "VIAC",
@@ -2232,27 +2233,27 @@
             "seed": 11,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 45.59,
                     "close": 44.639999
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 41.349998,
                     "close": 41.02
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 40.959999,
                     "close": 39.66
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 43.240002,
                     "close": 42.419998
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 42.849998,
                     "close": 42.599998
                 }
@@ -2267,17 +2268,17 @@
                     "score": 0.035644507706164674
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.005134142596692648,
-            "sharesOutstanding": "567539968",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 605585984,
+            "dividendPerShare": 0.96,
+            "eps": 6.9496,
+            "revenuePerShare": 42.392,
             "high52wk": 101.970001,
             "low52wk": 21.67,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": 0.00046679115364245405
         },
         "AMAT": {
             "name": "AMAT",
@@ -2285,27 +2286,27 @@
             "seed": 12,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 138.139999,
                     "close": 141.520004
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 132.0,
                     "close": 132.71
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 134.25,
                     "close": 132.85
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 139.17,
                     "close": 138.13
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 139.0,
                     "close": 138.21
                 }
@@ -2320,17 +2321,17 @@
                     "score": 0.028901303538175105
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": 0.00021582733812941512,
-            "sharesOutstanding": "917660992",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 913980992,
+            "dividendPerShare": 0.88,
+            "eps": 4.802,
+            "revenuePerShare": 21.645,
             "high52wk": 146.0,
             "low52wk": 54.150002,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.020215827338129544
         },
         "ADBE": {
             "name": "ADBE",
@@ -2338,27 +2339,27 @@
             "seed": 13,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 483.119995,
                     "close": 483.339996
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 514.13,
                     "close": 508.34
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 510.97,
                     "close": 503.46
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 506.08,
                     "close": 504.58
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 504.54,
                     "close": 495.91
                 }
@@ -2373,17 +2374,17 @@
                     "score": -0.012505626553418137
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": 0.10387679866809374,
-            "sharesOutstanding": "479326016",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
-            "high52wk": 561.36,
-            "low52wk": 395.41,
+            "sharesOutstanding": 478000000,
+            "dividendPerShare": null,
+            "eps": 11.486,
+            "revenuePerShare": 28.498,
+            "high52wk": 582.0,
+            "low52wk": 416.03,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": 0.14888809608752518
         },
         "ASML": {
             "name": "ASML",
@@ -2391,27 +2392,27 @@
             "seed": 14,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 619.799988,
                     "close": 637.099976
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 654.27,
                     "close": 648.1
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 657.71,
                     "close": 654.43
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 669.03,
                     "close": 675.47
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 684.74,
                     "close": 671.8
                 }
@@ -2426,17 +2427,17 @@
                     "score": 0.02700278238129261
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": 0.035911440838858555,
-            "sharesOutstanding": "416513984",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
-            "high52wk": 709.63,
-            "low52wk": 336.630005,
+            "sharesOutstanding": 416513984,
+            "dividendPerShare": 2.75,
+            "eps": 13.011,
+            "revenuePerShare": 38.1,
+            "high52wk": 710.97,
+            "low52wk": 343.25,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": 0.0021468002453486346
         },
         "MS": {
             "name": "MS",
@@ -2444,27 +2445,27 @@
             "seed": 15,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 77.879997,
                     "close": 78.220001
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 82.89,
                     "close": 82.55
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 83.11,
                     "close": 82.46
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 90.55,
                     "close": 90.95
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 92.39,
                     "close": 92.11
                 }
@@ -2479,17 +2480,17 @@
                     "score": 0.09433281193598853
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.018075549301872496,
-            "sharesOutstanding": "1809200000",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 1860589952,
+            "dividendPerShare": 1.4,
+            "eps": 7.645,
+            "revenuePerShare": 32.858,
             "high52wk": 94.27,
-            "low52wk": 44.599998,
+            "low52wk": 45.860001,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.04318649204459346
         },
         "AMD": {
             "name": "AMD",
@@ -2497,27 +2498,27 @@
             "seed": 16,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 80.160004,
                     "close": 81.089996
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 82.97,
                     "close": 81.62
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 81.97,
                     "close": 78.55
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 78.66,
                     "close": 80.08
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 81.01,
                     "close": 80.81
                 }
@@ -2532,17 +2533,17 @@
                     "score": -0.02305721605465416
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": 0.006665843722997167,
-            "sharesOutstanding": "1211320064",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 1215020032,
+            "dividendPerShare": null,
+            "eps": 2.382,
+            "revenuePerShare": 9.56,
             "high52wk": 99.230003,
             "low52wk": 48.419998,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": 0.056906554746327664
         },
         "CVX": {
             "name": "CVX",
@@ -2550,27 +2551,27 @@
             "seed": 1,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 105.260002,
                     "close": 105.75
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 104.98,
                     "close": 103.07
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 103.98,
                     "close": 105.53
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 103.62,
                     "close": 103.79
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 105.3,
                     "close": 106.65
                 }
@@ -2585,17 +2586,17 @@
                     "score": -0.0018272744758607296
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": 0.025356125356125414,
-            "sharesOutstanding": "1927949952",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 1928060032,
+            "dividendPerShare": 5.16,
+            "eps": -4.2032,
+            "revenuePerShare": 50.908,
             "high52wk": 113.11,
             "low52wk": 65.160004,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": 0.018993352326685642
         },
         "AXP": {
             "name": "AXP",
@@ -2603,27 +2604,27 @@
             "seed": 2,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 142.339996,
                     "close": 144.570007
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 153.6,
                     "close": 153.35
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 154.59,
                     "close": 154.8
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 160.26,
                     "close": 160.13
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 162.51,
                     "close": 163.76
                 }
@@ -2638,17 +2639,17 @@
                     "score": 0.03583672941328664
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": 0.007999507722601829,
-            "sharesOutstanding": "805201984",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
-            "high52wk": 167.14,
+            "sharesOutstanding": 803302976,
+            "dividendPerShare": 1.72,
+            "eps": 6.101,
+            "revenuePerShare": 41.538,
+            "high52wk": 170.41,
             "low52wk": 89.110001,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": 0.04270506430373522
         },
         "DOW": {
             "name": "DOW",
@@ -2656,27 +2657,27 @@
             "seed": 3,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 63.950001,
                     "close": 64.599998
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 63.45,
                     "close": 62.5
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 63.18,
                     "close": 64.55
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 69.08,
                     "close": 68.42
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 69.17,
                     "close": 70.41
                 }
@@ -2691,17 +2692,17 @@
                     "score": 0.08293763849319413
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.031950267456990145,
-            "sharesOutstanding": "745225024",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 746988992,
+            "dividendPerShare": 2.8,
+            "eps": 2.647,
+            "revenuePerShare": 54.816,
             "high52wk": 71.38,
-            "low52wk": 37.68,
+            "low52wk": 39.169998,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.08500795142402784
         },
         "MMM": {
             "name": "MMM",
@@ -2709,27 +2710,27 @@
             "seed": 4,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 193.25,
                     "close": 192.699997
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 197.66,
                     "close": 197.14
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 197.99,
                     "close": 198.61
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 203.88,
                     "close": 203.04
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 204.98,
                     "close": 203.2
                 }
@@ -2744,17 +2745,17 @@
                     "score": 0.025506338703974896
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.01766025953751571,
-            "sharesOutstanding": "577750016",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 579675008,
+            "dividendPerShare": 5.89,
+            "eps": 9.772,
+            "revenuePerShare": 56.972,
             "high52wk": 208.95,
             "low52wk": 148.800003,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.04990730803005161
         },
         "MCD": {
             "name": "MCD",
@@ -2762,27 +2763,27 @@
             "seed": 5,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 224.669998,
                     "close": 225.210007
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 234.0,
                     "close": 236.08
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 237.99,
                     "close": 235.56
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 234.13,
                     "close": 233.89
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 235.98,
                     "close": 233.24
                 }
@@ -2797,17 +2798,17 @@
                     "score": -0.017227614605655805
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": 0.004237647258242161,
-            "sharesOutstanding": "745571968",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 746174016,
+            "dividendPerShare": 5.08,
+            "eps": 6.891,
+            "revenuePerShare": 26.338,
             "high52wk": 238.18,
-            "low52wk": 178.880005,
+            "low52wk": 179.169998,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.015086024239342355
         },
         "V": {
             "name": "V",
@@ -2815,27 +2816,27 @@
             "seed": 6,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 213.779999,
                     "close": 216.860001
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 235.32,
                     "close": 233.56
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 234.05,
                     "close": 232.61
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 227.59,
                     "close": 227.3
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 229.44,
                     "close": 226.63
                 }
@@ -2850,17 +2851,17 @@
                     "score": -0.028839991454817304
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": 0.020223152022315283,
-            "sharesOutstanding": "1696109952",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
-            "high52wk": 237.49,
+            "sharesOutstanding": 1691810048,
+            "dividendPerShare": 1.26,
+            "eps": 4.838,
+            "revenuePerShare": 10.016,
+            "high52wk": 238.47,
             "low52wk": 179.229996,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": 0.03434449093444902
         },
         "KO": {
             "name": "KO",
@@ -2868,27 +2869,27 @@
             "seed": 7,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 52.959999,
                     "close": 52.509998
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 54.25,
                     "close": 53.98
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 54.27,
                     "close": 54.48
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 55.349998,
                     "close": 55.290001
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 55.34,
                     "close": 55.279999
                 }
@@ -2903,17 +2904,17 @@
                     "score": 0.01879493274368893
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": 0.003794723527285715,
-            "sharesOutstanding": "4309309952",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 4311680000,
+            "dividendPerShare": 1.65,
+            "eps": 1.67,
+            "revenuePerShare": 7.776,
             "high52wk": 56.48,
-            "low52wk": 43.509998,
+            "low52wk": 43.549999,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.018431514275388583
         },
         "NEE": {
             "name": "NEE",
@@ -2921,27 +2922,27 @@
             "seed": 8,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 75.5,
                     "close": 75.769997
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 77.239998,
                     "close": 77.510002
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 77.830002,
                     "close": 76.699997
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 73.599998,
                     "close": 73.220001
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 73.400002,
                     "close": 72.120003
                 }
@@ -2956,17 +2957,17 @@
                     "score": -0.05923167006985297
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.0012261852526924688,
-            "sharesOutstanding": "1959069952",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 1961449984,
+            "dividendPerShare": 1.435,
+            "eps": 2.11,
+            "revenuePerShare": 8.729,
             "high52wk": 87.690002,
             "low52wk": 58.439999,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": 0.0062670025540325636
         },
         "ETR": {
             "name": "ETR",
@@ -2974,27 +2975,27 @@
             "seed": 9,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 99.040001,
                     "close": 99.639999
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 108.73,
                     "close": 109.29
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 109.41,
                     "close": 109.23
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 105.32,
                     "close": 105.26
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 105.5,
                     "close": 104.63
                 }
@@ -3009,17 +3010,17 @@
                     "score": -0.037930719312677
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": 0.03222748815165888,
-            "sharesOutstanding": "200480000",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 200660000,
+            "dividendPerShare": 3.76,
+            "eps": 7.969,
+            "revenuePerShare": 52.58,
             "high52wk": 113.360001,
             "low52wk": 85.779999,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.03715639810426541
         },
         "PEP": {
             "name": "PEP",
@@ -3027,27 +3028,27 @@
             "seed": 10,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 141.190002,
                     "close": 141.279999
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 143.320007,
                     "close": 144.160004
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 145.029999,
                     "close": 145.789993
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 147.410004,
                     "close": 147.940002
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 148.779999,
                     "close": 147.630005
                 }
@@ -3062,17 +3063,17 @@
                     "score": 0.020064835000102255
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.0014114733257930556,
-            "sharesOutstanding": "1380000000",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
-            "high52wk": 148.850006,
-            "low52wk": 126.529999,
+            "sharesOutstanding": 1381629952,
+            "dividendPerShare": 4.09,
+            "eps": 5.402,
+            "revenuePerShare": 51.581,
+            "high52wk": 149.27,
+            "low52wk": 128.320007,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.015929553810522634
         },
         "MA": {
             "name": "MA",
@@ -3080,27 +3081,27 @@
             "seed": 11,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 357.040009,
                     "close": 363.299988
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 382.86,
                     "close": 382.06
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 385.47,
                     "close": 379.4
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 363.5,
                     "close": 360.58
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 364.48,
                     "close": 359.79
                 }
@@ -3115,17 +3116,17 @@
                     "score": -0.06457052429501653
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": 0.005597014925373012,
-            "sharesOutstanding": "985147008",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 982905024,
+            "dividendPerShare": 1.68,
+            "eps": 6.518,
+            "revenuePerShare": 15.459,
             "high52wk": 401.5,
             "low52wk": 281.200012,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": 0.041511194029850706
         },
         "SBUX": {
             "name": "SBUX",
@@ -3133,27 +3134,27 @@
             "seed": 12,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 110.059998,
                     "close": 109.379997
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 114.0,
                     "close": 114.49
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 115.18,
                     "close": 115.72
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 114.35,
                     "close": 113.88
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 114.56,
                     "close": 113.34
                 }
@@ -3168,17 +3169,17 @@
                     "score": -0.011286681715575675
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.0184182960893855,
-            "sharesOutstanding": "1177299968",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 1178300032,
+            "dividendPerShare": 1.76,
+            "eps": 0.849,
+            "revenuePerShare": 20.328,
             "high52wk": 118.98,
             "low52wk": 71.059998,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.013268156424581012
         },
         "PPG": {
             "name": "PPG",
@@ -3186,27 +3187,27 @@
             "seed": 13,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 150.259995,
                     "close": 151.960007
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 172.89,
                     "close": 171.24
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 172.64,
                     "close": 173.01
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 180.81,
                     "close": 179.72
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 182.11,
                     "close": 180.75
                 }
@@ -3221,17 +3222,17 @@
                     "score": 0.04101019462465261
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.036955686123771425,
-            "sharesOutstanding": "236204000",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 237091008,
+            "dividendPerShare": 2.13,
+            "eps": 5.014,
+            "revenuePerShare": 60.492,
             "high52wk": 182.97,
-            "low52wk": 98.410004,
+            "low52wk": 102.550003,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.08181868101696776
         },
         "DD": {
             "name": "DD",
@@ -3239,27 +3240,27 @@
             "seed": 14,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 77.669998,
                     "close": 78.129997
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 77.8,
                     "close": 77.11
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 77.91,
                     "close": 78.28
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 84.7,
                     "close": 84.59
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 85.51,
                     "close": 85.43
                 }
@@ -3274,17 +3275,17 @@
                     "score": 0.08573995635990261
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.046310373055783005,
-            "sharesOutstanding": "534524992",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 532142016,
+            "dividendPerShare": 1.2,
+            "eps": 4.351,
+            "revenuePerShare": 29.489,
             "high52wk": 87.269997,
-            "low52wk": 49.009998,
+            "low52wk": 50.75,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.10490001169453866
         },
         "PYPL": {
             "name": "PYPL",
@@ -3292,27 +3293,27 @@
             "seed": 15,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 248.039993,
                     "close": 247.539993
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 265.0,
                     "close": 262.29
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 265.06,
                     "close": 259.09
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 261.07,
                     "close": 260.02
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 261.08,
                     "close": 259.27
                 }
@@ -3327,17 +3328,17 @@
                     "score": -0.01901456274051161
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": 0.053048873908380756,
-            "sharesOutstanding": "1171180032",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 1174729984,
+            "dividendPerShare": null,
+            "eps": 4.388,
+            "revenuePerShare": 19.496,
             "high52wk": 309.140015,
-            "low52wk": 151.89,
+            "low52wk": 164.33,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": 0.10923854757162577
         },
         "HAL": {
             "name": "HAL",
@@ -3345,27 +3346,27 @@
             "seed": 16,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 21.66,
                     "close": 21.92
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 20.059999,
                     "close": 19.559999
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 20.129999,
                     "close": 20.66
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 22.709999,
                     "close": 22.450001
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 23.0,
                     "close": 23.34
                 }
@@ -3380,17 +3381,17 @@
                     "score": 0.11525097442876175
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": 0.026086956521739202,
-            "sharesOutstanding": "884006976",
-            "dividendPerShare": "?",
-            "eps": "?",
-            "revenuePerShare": "?",
+            "sharesOutstanding": 889718976,
+            "dividendPerShare": 0.18,
+            "eps": 1.358,
+            "revenuePerShare": 14.55,
             "high52wk": 25.0,
             "low52wk": 10.6,
             "netCash": "?",
             "beta": "?",
-            "iv": "?"
+            "iv": "?",
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": 0.04086956521739138
         },
         "SPY": {
             "name": "SPY",
@@ -3398,27 +3399,27 @@
             "seed": 0,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 398.399994,
                     "close": 400.609985
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 417.630005,
                     "close": 417.299988
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 419.429993,
                     "close": 418.200012
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 420.970001,
                     "close": 420.040009
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 422.57,
                     "close": 419.67
                 }
@@ -3433,8 +3434,8 @@
                     "score": 0.0014543928907819748
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": 0.006365809215041374
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": 0.00956054618169766
         },
         "QQQ": {
             "name": "QQQ",
@@ -3442,43 +3443,43 @@
             "seed": 0,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 323.070007,
                     "close": 324.570007
                 },
                 {
-                    "date": "2021-04-30",
-                    "open": 337.7,
-                    "close": 337.89
+                    "date": "2021-04-30T00:00:00",
+                    "open": 337.700012,
+                    "close": 337.98999
                 },
                 {
-                    "date": "2021-05-03",
-                    "open": 339.23,
-                    "close": 336.19
+                    "date": "2021-05-03T00:00:00",
+                    "open": 339.230011,
+                    "close": 336.190002
                 },
                 {
-                    "date": "2021-05-28",
-                    "open": 334.12,
-                    "close": 333.93
+                    "date": "2021-05-28T00:00:00",
+                    "open": 334.119995,
+                    "close": 333.929993
                 },
                 {
-                    "date": "2021-06-01",
-                    "open": 335.3,
-                    "close": 332.82
+                    "date": "2021-06-01T00:00:00",
+                    "open": 335.299988,
+                    "close": 332.820007
                 }
             ],
             "scores": [
                 {
                     "number": 0,
-                    "score": 0.04587238889062206
+                    "score": 0.046181888373190816
                 },
                 {
                     "number": 1,
-                    "score": -0.015623618194145594
+                    "score": -0.015623670748871277
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": 0.027467939158962063
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": 0.042230848514077435
         },
         "DIA": {
             "name": "DIA",
@@ -3486,27 +3487,27 @@
             "seed": 0,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 330.779999,
                     "close": 331.450012
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 338.92,
                     "close": 338.94
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 340.79,
                     "close": 341.11
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 346.38,
                     "close": 345.64
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 348.54,
                     "close": 345.87
                 }
@@ -3521,8 +3522,8 @@
                     "score": 0.014231638252296008
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.012165031273311588
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.011734664600906775
         },
         "RSP": {
             "name": "RSP",
@@ -3530,27 +3531,27 @@
             "seed": 0,
             "prices": [
                 {
-                    "date": "2021-04-01",
+                    "date": "2021-04-01T00:00:00",
                     "open": 142.139999,
                     "close": 143.080002
                 },
                 {
-                    "date": "2021-04-30",
+                    "date": "2021-04-30T00:00:00",
                     "open": 148.66,
                     "close": 148.28
                 },
                 {
-                    "date": "2021-05-03",
+                    "date": "2021-05-03T00:00:00",
                     "open": 149.14,
                     "close": 149.16
                 },
                 {
-                    "date": "2021-05-28",
+                    "date": "2021-05-28T00:00:00",
                     "open": 151.35,
                     "close": 151.12
                 },
                 {
-                    "date": "2021-06-01",
+                    "date": "2021-06-01T00:00:00",
                     "open": 152.19,
                     "close": 151.62
                 }
@@ -3565,8 +3566,8 @@
                     "score": 0.013276116400697369
                 }
             ],
-            "currentScoreDate": "2021-06-14",
-            "currentRoundScore": -0.0031539522964714184
+            "currentScoreDate": "2021-06-25T00:00:00",
+            "currentRoundScore": -0.006899270648531464
         },
         "STONKS": {
             "name": "STONKS",
