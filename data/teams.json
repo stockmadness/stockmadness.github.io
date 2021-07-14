@@ -2612,7 +2612,7 @@
             "beta": "?",
             "iv": "?",
             "currentScoreDate": "2021-07-13T00:00:00",
-            "currentRoundScore": -0.0005339978640085397
+            "currentRoundScore": -0.001601993592025619
         },
         "AAPL": {
             "name": "AAPL",
@@ -2880,7 +2880,7 @@
             "beta": "?",
             "iv": "?",
             "currentScoreDate": "2021-07-13T00:00:00",
-            "currentRoundScore": -0.04190560211733585
+            "currentRoundScore": -0.06087340097044558
         },
         "AMAT": {
             "name": "AMAT",
