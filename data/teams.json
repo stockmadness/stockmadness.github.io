@@ -65,8 +65,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": -0.03709620300974248
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": -0.04225225328979265
         },
         "BA": {
             "name": "BA",
@@ -132,8 +132,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": -0.06036778166084211
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": -0.07526210683974044
         },
         "TRV": {
             "name": "TRV",
@@ -199,8 +199,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": -0.007866666666666688
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": -0.004133333333333322
         },
         "HON": {
             "name": "HON",
@@ -266,8 +266,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.039305467404116445
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.04433765527246347
         },
         "CRM": {
             "name": "CRM",
@@ -333,8 +333,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.012678936605317048
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": -0.004049079754601226
         },
         "PG": {
             "name": "PG",
@@ -400,8 +400,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.03581191206293566
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.04002072864317441
         },
         "NKE": {
             "name": "NKE",
@@ -467,8 +467,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.07152592977218153
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.06815084052703324
         },
         "FCX": {
             "name": "FCX",
@@ -534,8 +534,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": -0.03349151020524843
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": -0.04140290302757921
         },
         "MLM": {
             "name": "MLM",
@@ -601,8 +601,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.00022689885983329106
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.002013727381019903
         },
         "POOL": {
             "name": "POOL",
@@ -668,8 +668,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.01612446958981595
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.026808834729626696
         },
         "CLX": {
             "name": "CLX",
@@ -683,33 +683,33 @@
                 },
                 {
                     "date": "2021-04-30T00:00:00",
-                    "open": 179.26,
+                    "open": 179.259995,
                     "close": 182.5
                 },
                 {
                     "date": "2021-05-03T00:00:00",
                     "open": 177.0,
-                    "close": 180.63
+                    "close": 180.630005
                 },
                 {
                     "date": "2021-05-28T00:00:00",
-                    "open": 175.8,
-                    "close": 176.73
+                    "open": 175.800003,
+                    "close": 176.729996
                 },
                 {
                     "date": "2021-06-01T00:00:00",
                     "open": 177.5,
-                    "close": 176.66
+                    "close": 176.660004
                 },
                 {
                     "date": "2021-06-30T00:00:00",
-                    "open": 179.63,
-                    "close": 179.91
+                    "open": 179.630005,
+                    "close": 179.910004
                 },
                 {
                     "date": "2021-07-01T00:00:00",
-                    "open": 179.76,
-                    "close": 178.85
+                    "open": 179.759995,
+                    "close": 178.850006
                 }
             ],
             "scores": [
@@ -719,11 +719,11 @@
                 },
                 {
                     "number": 1,
-                    "score": -0.0015254237288135908
+                    "score": -0.0015254463276835883
                 },
                 {
                     "number": 2,
-                    "score": 0.01357746478873234
+                    "score": 0.013577487323943593
                 }
             ],
             "sharesOutstanding": 124372000,
@@ -735,8 +735,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.03259902091677791
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.0170783549476623
         },
         "ADSK": {
             "name": "ADSK",
@@ -802,8 +802,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.07485091507300035
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.0564466378778532
         },
         "LMT": {
             "name": "LMT",
@@ -869,8 +869,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": -0.02454215366674617
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": -0.006837878667408703
         },
         "ALL": {
             "name": "ALL",
@@ -936,8 +936,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": -0.003892832608197727
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.0033585222502099388
         },
         "GE": {
             "name": "GE",
@@ -1003,8 +1003,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": -0.048600883652430094
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": -0.03681885125184092
         },
         "DE": {
             "name": "DE",
@@ -1066,12 +1066,12 @@
             "eps": 14.504,
             "revenuePerShare": 126.994,
             "high52wk": 400.339996,
-            "low52wk": 172.910004,
+            "low52wk": 173.360001,
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": -0.000562346054520213
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": -0.006016993690412309
         },
         "WBA": {
             "name": "WBA",
@@ -1137,8 +1137,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": -0.08818988807410266
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": -0.09648784253184095
         },
         "JPM": {
             "name": "JPM",
@@ -1204,8 +1204,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": -0.02950208081089467
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": -0.030781998937092103
         },
         "HD": {
             "name": "HD",
@@ -1271,8 +1271,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.035228658060079354
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.022975211778312632
         },
         "AMGN": {
             "name": "AMGN",
@@ -1338,8 +1338,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.00549766144252084
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.0038565684746041384
         },
         "UNH": {
             "name": "UNH",
@@ -1405,8 +1405,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.028629704250926702
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.032510011690670026
         },
         "JNJ": {
             "name": "JNJ",
@@ -1472,8 +1472,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.04328032050503827
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.04807575573631162
         },
         "MRK": {
             "name": "MRK",
@@ -1539,8 +1539,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": -0.005280103026400695
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.0025756600128781226
         },
         "WMT": {
             "name": "WMT",
@@ -1606,8 +1606,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.015810839683783273
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.015882059682358785
         },
         "COST": {
             "name": "COST",
@@ -1668,13 +1668,13 @@
             "dividendPerShare": 2.89,
             "eps": 10.639,
             "revenuePerShare": 421.266,
-            "high52wk": 424.5,
+            "high52wk": 424.56,
             "low52wk": 307.0,
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.06795357052737816
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.07075447893010334
         },
         "PFE": {
             "name": "PFE",
@@ -1740,8 +1740,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.06739851927495533
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.07480214449834066
         },
         "BSX": {
             "name": "BSX",
@@ -1802,13 +1802,13 @@
             "dividendPerShare": null,
             "eps": 0.141,
             "revenuePerShare": 7.118,
-            "high52wk": 44.63,
+            "high52wk": 46.03,
             "low52wk": 32.990002,
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.02781673679289387
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.06381486676016812
         },
         "HUM": {
             "name": "HUM",
@@ -1874,8 +1874,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.055328475216587236
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.05575755315262776
         },
         "DXCM": {
             "name": "DXCM",
@@ -1941,8 +1941,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.06491917456881335
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.05550718840443292
         },
         "LOW": {
             "name": "LOW",
@@ -2008,8 +2008,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.016658097686375273
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": -0.00508997429305913
         },
         "BAC": {
             "name": "BAC",
@@ -2075,8 +2075,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": -0.08253128007699706
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": -0.08614051973051018
         },
         "CVS": {
             "name": "CVS",
@@ -2142,8 +2142,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": -0.010034631585648324
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": -0.0008362083483001159
         },
         "INTC": {
             "name": "INTC",
@@ -2209,8 +2209,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": -0.032424728309282
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": -0.05255656511669349
         },
         "GS": {
             "name": "GS",
@@ -2276,8 +2276,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": -0.012608353033884967
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": -0.015392697662201194
         },
         "CSCO": {
             "name": "CSCO",
@@ -2343,8 +2343,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.04561736184010101
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.04203583491113738
         },
         "MSFT": {
             "name": "MSFT",
@@ -2410,8 +2410,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.07210415043952367
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.06279440673565517
         },
         "IBM": {
             "name": "IBM",
@@ -2477,8 +2477,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": -0.02851115949918348
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": -0.028647250952640202
         },
         "DIS": {
             "name": "DIS",
@@ -2544,8 +2544,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.01933276304533793
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.02366695181066447
         },
         "VZ": {
             "name": "VZ",
@@ -2611,8 +2611,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": -0.007119971520113899
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.0003559985760057671
         },
         "AAPL": {
             "name": "AAPL",
@@ -2678,8 +2678,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.09070273393692241
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.07445090448971148
         },
         "QCOM": {
             "name": "QCOM",
@@ -2741,12 +2741,12 @@
             "eps": 6.983,
             "revenuePerShare": 26.003,
             "high52wk": 167.940002,
-            "low52wk": 89.260002,
+            "low52wk": 90.57,
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.004128472465187993
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": -0.013854873696732106
         },
         "TMUS": {
             "name": "TMUS",
@@ -2812,8 +2812,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.0029749550297495375
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.0019371800193717092
         },
         "VIAC": {
             "name": "VIAC",
@@ -2875,12 +2875,12 @@
             "eps": 6.9496,
             "revenuePerShare": 42.392,
             "high52wk": 101.970001,
-            "low52wk": 24.110001,
+            "low52wk": 24.27,
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": -0.07013674459638308
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": -0.08822232024702248
         },
         "AMAT": {
             "name": "AMAT",
@@ -2946,8 +2946,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": -0.022724064925899734
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": -0.047988708539167146
         },
         "ADBE": {
             "name": "ADBE",
@@ -3013,8 +3013,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.06423465276944418
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.05991462808358894
         },
         "ASML": {
             "name": "ASML",
@@ -3080,8 +3080,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.09727315057330777
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.08491938769571039
         },
         "MS": {
             "name": "MS",
@@ -3147,8 +3147,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.05026109660574418
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.04960835509138373
         },
         "AMD": {
             "name": "AMD",
@@ -3214,8 +3214,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": -0.02360697575499804
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": -0.032007656316461186
         },
         "CVX": {
             "name": "CVX",
@@ -3281,8 +3281,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": -0.056100981767180924
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": -0.05928003740065457
         },
         "AXP": {
             "name": "AXP",
@@ -3348,8 +3348,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.04201633716932118
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.04400848936945945
         },
         "DOW": {
             "name": "DOW",
@@ -3415,8 +3415,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": -0.03441295546558709
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": -0.03534724384926813
         },
         "MMM": {
             "name": "MMM",
@@ -3482,8 +3482,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.011130609175231898
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.005114063675106584
         },
         "MCD": {
             "name": "MCD",
@@ -3544,13 +3544,13 @@
             "dividendPerShare": 5.08,
             "eps": 6.891,
             "revenuePerShare": 26.338,
-            "high52wk": 245.02,
+            "high52wk": 247.05,
             "low52wk": 191.639999,
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.054319173760857264
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.06456073635538662
         },
         "V": {
             "name": "V",
@@ -3611,13 +3611,13 @@
             "dividendPerShare": 1.26,
             "eps": 4.838,
             "revenuePerShare": 10.016,
-            "high52wk": 250.46,
+            "high52wk": 252.66,
             "low52wk": 179.229996,
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.06853116994022201
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.07143467122117864
         },
         "KO": {
             "name": "KO",
@@ -3683,8 +3683,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.05005520794994478
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.053735737946264184
         },
         "NEE": {
             "name": "NEE",
@@ -3750,8 +3750,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.04924965893587996
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.062210095497953644
         },
         "ETR": {
             "name": "ETR",
@@ -3817,8 +3817,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.0409227683049147
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.05656970912738224
         },
         "PEP": {
             "name": "PEP",
@@ -3879,13 +3879,13 @@
             "dividendPerShare": 4.09,
             "eps": 5.402,
             "revenuePerShare": 51.581,
-            "high52wk": 157.79,
+            "high52wk": 158.66,
             "low52wk": 128.320007,
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.0607104267963261
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.06658562938951906
         },
         "MA": {
             "name": "MA",
@@ -3951,8 +3951,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.07307748361406863
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.06616585929241992
         },
         "SBUX": {
             "name": "SBUX",
@@ -4018,8 +4018,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.12603841000446625
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.12577043322912007
         },
         "PPG": {
             "name": "PPG",
@@ -4085,8 +4085,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": -0.035156478502486044
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": -0.03398654577361804
         },
         "DD": {
             "name": "DD",
@@ -4152,8 +4152,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": -0.04331667307445852
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": -0.051646802511854384
         },
         "PYPL": {
             "name": "PYPL",
@@ -4219,8 +4219,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.05672855027038204
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.03496021768332591
         },
         "HAL": {
             "name": "HAL",
@@ -4286,8 +4286,8 @@
             "netCash": "?",
             "beta": "?",
             "iv": "?",
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": -0.136116910229645
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": -0.13820459290187892
         },
         "SPY": {
             "name": "SPY",
@@ -4344,8 +4344,8 @@
                     "score": 0.01299193033106949
                 }
             ],
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.028330263249935816
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.02364352834192185
         },
         "QQQ": {
             "name": "QQQ",
@@ -4402,8 +4402,8 @@
                     "score": 0.0570534228590549
                 }
             ],
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.040726410031914684
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.029259750896715397
         },
         "DIA": {
             "name": "DIA",
@@ -4460,8 +4460,8 @@
                     "score": -0.010300109026223803
                 }
             ],
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.016282029035803225
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.01399733934871894
         },
         "RSP": {
             "name": "RSP",
@@ -4518,8 +4518,8 @@
                     "score": -0.009593271568434258
                 }
             ],
-            "currentScoreDate": "2021-07-26T00:00:00",
-            "currentRoundScore": 0.0060834490511143535
+            "currentScoreDate": "2021-07-27T00:00:00",
+            "currentRoundScore": 0.0042980890035047015
         },
         "STONKS": {
             "name": "STONKS",
